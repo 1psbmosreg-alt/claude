@@ -1,0 +1,88 @@
+{
+  "agent_code": "EU",
+  "period": {
+    "start": "2026-10-05",
+    "end": "2026-10-19"
+  },
+  "generated_at": "2026-10-19",
+  "coverage_note": "ОХВАТ НЕПОЛНЫЙ: лимит Legal Data Hunter исчерпан до первого вызова (дневной лимит бесплатного тарифа); оба search (наднациональный уровень; национальные суды) не выполнены, тексты решений судов не открывались. Проверено: выполнено 51 из 51 запроса, поисков по доменам 12 (все группы шага 1), переформулировок 2 (запросы 11 и 20 — нерелевантная выдача), проверочных поисков 11, вызовов Legal Data Hunter 2 (оба отклонены из-за лимита). Недоступно: WebFetch и прямые запросы не разрешают DNS (boe.es, eur-lex.europa.eu, curia.europa.eu, gazzettaufficiale.it, rechtspraak.nl, brak.de, advokatsamfundet.se); проверка по фрагментам выдачи; база AI Hallucination Cases проверена только поиском по домену. Исключено: решения о санкциях за выдуманные ИИ ссылки в Испании (TSJ Canarias, TSXG — июль 2026), Германии (KG Berlin, 20.11.2025; LG Frankfurt, 25.09.2025), Италии (Tribunale di Siracusa, 20.02.2026), Польше (NSA, 23.06.2026) — вынесены до периода; рамочные соглашения Advokatsamfundet с поставщиками ИИ (Realtid, 01.10.2026), обновление рекомендаций CSM об ИИ (22.07.2026), хартия ИИ barreau de Paris (21.07.2026), руководство CCBE (27.03.2026), циркуляр CGAE 3/2026 (апрель 2026) — опубликованы до периода; конференция IBA в Копенгагене, семинар KIRP 14.10.2026 — мероприятия. Решений о санкциях, вынесенных или впервые опубликованных в периоде и подтверждённых по тексту решения или сообщению суда, не найдено; сводная запись не оформлена. Чужая зона: Matter of Sethi (BIA, США — NA).",
+  "items": [
+    {
+      "item_id": "EU-20261019-001",
+      "jurisdiction": "IT",
+      "jurisdiction_name_ru": "Италия",
+      "issuer_original": "Governo della Repubblica Italiana",
+      "issuer_ru": "Правительство Италии",
+      "issuer_type": "правительство_регулятор",
+      "category": "регулирование",
+      "doc_type": "подзаконный_акт",
+      "status": "принят",
+      "date_published": "2026-10-08",
+      "date_effective": "2026-10-23",
+      "title_original": "Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1689 […] in materia di poteri delle Autorità nazionali e di utilizzo dell'intelligenza artificiale nella formazione",
+      "title_ru": "Приведение национального законодательства в соответствие с Регламентом (ЕС) 2024/1689 в части полномочий национальных органов и использования искусственного интеллекта в обучении",
+      "identifier": "D.Lgs. 7 ottobre 2026, n. 179",
+      "summary_ru": "Опубликован законодательный декрет Италии № 179 от 7 октября 2026 года (Gazzetta Ufficiale от 8 октября 2026 года), принятый во исполнение делегации Закона № 132 от 23 сентября 2025 года и адаптирующий национальное право к AI Act. Декрет из 54 статей регулирует полномочия органов надзора и санкции, а также, по данным комментаторов, обязательное обучение в области ИИ для лиц регулируемых профессий и организацию такого обучения профессиональными советами. Вступает в силу 23 октября 2026 года. Текст декрета не открыт: сведения о положениях, касающихся профессий, взяты из вторичных источников.",
+      "key_rule_ru": "Италия завершает адаптацию к AI Act: помимо полномочий надзорных органов декрет вводит требования к обучению лиц интеллектуальных профессий, включая адвокатов, в области ИИ.",
+      "quote_original": null,
+      "ru_relevance": "Индикатор направления регулирования: государство закрепляет обязательную ИИ-грамотность юристов через профессиональные советы; для бюро — довод в пользу внутренних программ обучения сотрудников работе с ИИ. В РФ не действует.",
+      "significance": 4,
+      "significance_reason": "Акт с силой закона страны зоны об ИИ (по шкале EU — до уровня 5), понижен до 4: основной предмет — полномочия надзорных органов, а нормы о профессиях подтверждены только вторичными источниками.",
+      "source_url": null,
+      "source_language": "it",
+      "secondary_urls": [
+        "https://www.gazzettaufficiale.it/eli/id/2026/10/08/26G00200/sg",
+        "https://www.twobirds.com/it/insights/2026/italy/attuazione-ai-act--d,-d-,lgs,-d-,-179-2026",
+        "https://www.ingenio-web.it/articoli/intelligenza-artificiale-pubblicato-il-decreto-179-2026-tutte-le-novita-su-controlli-formazione-lavoro-e-professioni/",
+        "https://www.dirittobancario.it/art/in-gu-il-ii-decreto-di-adeguamento-allai-act/",
+        "https://www.dottrinalavoro.it/notizie-c/ipsoa-quotidiano-ai-e-formazione-obbligatoria-nuove-regole-per-professionisti-e-ordini-professionali"
+      ],
+      "verification": "вторичные_источники",
+      "follow_up": "Вступление в силу 23.10.2026; отслеживать изменения регламентов обучения CNF во исполнение декрета.",
+      "tags": [
+        "AI_Act",
+        "обучение_ИИ",
+        "профессии",
+        "обязательное_обучение"
+      ]
+    },
+    {
+      "item_id": "EU-20261019-002",
+      "jurisdiction": "EU",
+      "jurisdiction_name_ru": "Европейский союз",
+      "issuer_original": "European Commission",
+      "issuer_ru": "Европейская комиссия",
+      "issuer_type": "наднациональный_орган",
+      "category": "регулирование",
+      "doc_type": "подзаконный_акт",
+      "status": "вступил_в_силу",
+      "date_published": "2026-10-12",
+      "date_effective": "2026-10-14",
+      "title_original": "Commission Implementing Decision (EU) 2026/2274 of 12 October 2026 on the harmonised standards for high-risk artificial intelligence systems drafted in support of Regulation (EU) 2024/1689",
+      "title_ru": "Имплементационное решение Комиссии (ЕС) 2026/2274 от 12 октября 2026 года о гармонизированных стандартах для высокорисковых систем ИИ, разработанных в поддержку Регламента (ЕС) 2024/1689",
+      "identifier": "Implementing Decision (EU) 2026/2274",
+      "summary_ru": "Еврокомиссия приняла имплементационное решение, которым в Официальном журнале ЕС (публикация 14 октября 2026 года, вступление в силу в день публикации) опубликована ссылка на первый гармонизированный стандарт по AI Act — EN 18286:2026 «Искусственный интеллект — система управления качеством для целей AI Act». Соответствие стандарту создаёт презумпцию соответствия требованиям к системе управления качеством поставщиков высокорисковых систем ИИ (ст. 17 AI Act) в части, которую стандарт покрывает. Стандарт применяется добровольно и касается в том числе систем ИИ для правосудия (Приложение III, п. 8).",
+      "key_rule_ru": "Поставщики высокорисковых систем ИИ, включая системы для судов, получают первый гармонизированный стандарт, соответствие которому презюмирует выполнение требований AI Act к управлению качеством.",
+      "quote_original": null,
+      "ru_relevance": "Прямой применимости нет; ориентир для требований к ИИ-инструментам, закупаемым судами и бюро, и индикатор того, как может быть устроена сертификация юридического ИИ.",
+      "significance": 3,
+      "significance_reason": "Гармонизированный стандарт по AI Act (шкала EU: уровень 3).",
+      "source_url": null,
+      "source_language": "en",
+      "secondary_urls": [
+        "https://www.lexisnexis.co.uk/legal/news/reference-to-eu-harmonised-standard-for-high-risk-ai-systems-published-in-official-journal",
+        "https://www.lovguiden.dk/en/det-offentlige/eur-lex-eu-tidende/2026-10-14-eu-kommissionen-offentliggoer-foerste-harmoniserede-ai-standard-en-18286",
+        "https://lne-gmed.com/news/ai-act-a-first-harmonized-standard-published-in-the-ojeu",
+        "https://www.boe.es/buscar/doc.php?id=DOUE-L-2026-81573",
+        "https://single-market-economy.ec.europa.eu/single-market/goods/european-standards/harmonised-standards/artificial-intelligence-ai_en"
+      ],
+      "verification": "вторичные_источники",
+      "follow_up": "Следить за публикацией следующих гармонизированных стандартов AI Act до начала применения требований к системам Приложения III (2 декабря 2027 года).",
+      "tags": [
+        "AI_Act",
+        "гармонизированный_стандарт",
+        "высокорисковые_системы"
+      ]
+    }
+  ]
+}
