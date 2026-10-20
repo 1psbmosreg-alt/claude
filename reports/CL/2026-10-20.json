@@ -1,0 +1,43 @@
+{
+  "agent_code": "CL",
+  "period": {"start": "2026-10-13", "end": "2026-10-20"},
+  "generated_at": "2026-10-20",
+  "coverage_note": "Проверено: выполнено 42 из 42 запросов (Великобритания и Ирландия — 27, Австралия и Новая Зеландия — 11, Залив — 4), поисков по доменам 6 (все группы шага 1), проверок находок 3, вызовов Legal Data Hunter 3 (search по UK, IE и по AU, NZ — релевантных решений в периоде нет; get_document по SDT 12904 — дело не об ИИ; решения UK из Find Case Law в выдаче сервиса не отображаются, пока владелец не включит доступ на legaldatahunter.com/uk-case-law). Недоступно: WebFetch не открывает сайты (ошибка DNS); Guidance Note Fair Work Commission включено по вторичным источникам. Исключено: речь Master of the Rolls на конференции Legal Geek (14.10.2026) — речь, не документ; позиция судебной системы Англии и Уэльса о применении ИИ судьями (09.10.2026) — уже в отчёте CL-20261013; обновление руководства AIJA «AI Decision-Making and the Courts» (2026) — дата публикации не установлена; TCC Guide 2026 с разделом об ИИ — опубликован 01.07.2026, до периода. Решений о санкциях за выдуманные ИИ ссылки в периоде, подтверждённых текстом решения, не найдено; сводная запись не оформлена. Отследить: итоговый доклад Civil Justice Council (ожидается в конце 2026); практику применения Guidance Note Fair Work Commission. Чужая зона: симпозиум Advisory Committee on Evidence Rules по проекту FRE 707 (NA).",
+  "items": [
+    {
+      "item_id": "CL-20261020-001",
+      "jurisdiction": "AU",
+      "jurisdiction_name_ru": "Австралия (федеральный уровень)",
+      "issuer_original": "Fair Work Commission",
+      "issuer_ru": "Комиссия по справедливому труду Австралии (федеральный трибунал по трудовым спорам)",
+      "issuer_type": "суд",
+      "category": "правила_судов",
+      "doc_type": "практическое_указание",
+      "status": "вступил_в_силу",
+      "date_published": "2026-10-20",
+      "date_effective": "2026-10-20",
+      "title_original": "Guidance Note: Use of generative artificial intelligence in Commission cases",
+      "title_ru": "Руководящее указание: использование генеративного ИИ в делах, рассматриваемых Комиссией",
+      "identifier": null,
+      "summary_ru": "20.10.2026 вступило в силу руководящее указание Fair Work Commission об использовании генеративного ИИ при подготовке документов по делам Комиссии. Окончательная редакция опубликована 24.08.2026 вместе с заявлением Президента Комиссии (проект обсуждался с марта 2026 года). По сообщениям юридических фирм, указание распространяется на всех, кто подаёт документы по делам об индивидуальных трудовых правах (в том числе о несправедливом увольнении): заявителей, работодателей, кадровых консультантов, представителей профсоюзов и юристов. Лицо, использовавшее генеративный ИИ, обязано раскрыть это в документе, проверить документ и подтвердить проверку; свидетельские показания и заявления должны основываться на собственном знании автора. Поводом названы резкий рост нагрузки Комиссии из-за заявлений, подготовленных с помощью ИИ. Текст указания не открывался; детали и последствия нарушения — сверить по fwc.gov.au.",
+      "key_rule_ru": "В делах Fair Work Commission использование генеративного ИИ при подготовке документа нужно раскрыть, а сам документ проверить и подтвердить проверку.",
+      "quote_original": null,
+      "ru_relevance": "Пример обязательного раскрытия использования ИИ участниками процесса, включая сторон без представителя, в массовой категории трудовых споров; ориентир для внутренних правил бюро о проверке и пометке документов, подготовленных с ИИ. Иностранный акт, в РФ не действует.",
+      "significance": 3,
+      "significance_reason": "Вступление в силу практического указания федерального трибунала для категории дел об индивидуальных трудовых правах с обязательным раскрытием использования ИИ (шкала CL: практическое указание трибунала для всех дел — уровень 3).",
+      "source_url": null,
+      "source_language": "en",
+      "secondary_urls": [
+        "https://hwlebsworth.com.au/prompt-with-care-the-fair-work-commissions-new-rules-for-generative-ai-apply-from-20-october-2026",
+        "https://hallandwilcox.com.au/news/fair-work-commission-responds-to-surge-in-ai-generated-claims-with-new-guidance-note/",
+        "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/australias-fair-work-commission-introduces-guidance-on-use-of-generative-artificial-intelligence",
+        "https://www.claytonutz.com/insights/2026/august/mopping-up-ai-slop-fair-work-commission-taking-action-to-address-excessive-ai-claims",
+        "https://www.fwc.gov.au/about-us/news-and-media/news/use-ai-commission-cases",
+        "https://www.fwc.gov.au/documents/consultation/presidents-statement-use-of-ai-in-fwc-proceedings-2026-08-24.pdf"
+      ],
+      "verification": "вторичные_источники",
+      "follow_up": "Практика применения указания Комиссией (снижение веса документов, издержки, прекращение дел); пересмотр указания, о котором сообщала Комиссия.",
+      "tags": ["раскрытие_использования_ИИ", "проверка_документов", "трудовые_споры", "стороны_без_представителя"]
+    }
+  ]
+}
