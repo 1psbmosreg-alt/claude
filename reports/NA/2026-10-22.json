@@ -1,0 +1,7 @@
+{
+  "agent_code": "NA",
+  "period": {"start": "2026-10-15", "end": "2026-10-22"},
+  "generated_at": "2026-10-22",
+  "coverage_note": "ОХВАТ НЕПОЛНЫЙ: Legal Data Hunter не подключён; выполнена лишь часть запросов из списков; WebFetch не открывает сайты (DNS), первоисточники не открывались, решения о санкциях по тексту не проверялись. Проверено: запросов 16 (США — 10, Канада — 6), из них поисков по доменам 4, вызовов Legal Data Hunter 0. Недоступно: WebFetch для всех сайтов (floridabar.org, cjc-ccm.ca, uscourts.gov и др.). Исключено: заседание Advisory Committee on Evidence Rules 15.10.2026 (Rule 707/901(c)) и Advisory Committee on Civil Rules 21.10.2026 (Rule 11) — итогов в выдаче нет, только повестки; проект Tenth Circuit от 18.09.2026 — окончательного акта не найдено; опрос State Bar of California от 15.10.2026 — подтверждения не найдено; Flycatcher v. Affable Avenue (S.D.N.Y., $39K) — решение от 09.10.2026, до периода; Law360 о санкции $500 (Коннектикут) — дата не установлена; CJC Guidance on Evaluating Digital Media Evidence — дата публикации не установлена. Чужая зона: не выявлено.",
+  "items": []
+}
