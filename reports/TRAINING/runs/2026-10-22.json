@@ -1,0 +1,61 @@
+{
+  "run_date": "2026-10-22",
+  "window_from": "15.10.2026",
+  "fetch_mode": "только_поиск",
+  "events": [
+    {
+      "event_id": "IE-LSI-microcredential-ai-2026-10",
+      "date_event": "2026-10-20",
+      "group": "II",
+      "country": "Ирландия",
+      "org": "Law Society of Ireland",
+      "type": "сертификация",
+      "summary": "По данным поисковой выдачи, 20.10.2026 (вторник) начинается Micro-credential in AI Law Society of Ireland: шесть модулей (защита данных, AI Act, ИИ на рабочем месте и др.), онлайн, 15 часов CPD; две микроквалификации дают сертификат, четыре — диплом. Стоимость в выдаче — из анонса 2025 г., актуальность не установлена.",
+      "level": "М3",
+      "impact": "Пример модульной сертификации по ИИ с накопительной схемой (микроквалификация → сертификат → диплом) — довод для структуры специализаций М3 и признания модулей в часах повышения квалификации.",
+      "verification": "НЕ ПРОВЕРЕНО",
+      "url": "https://www.lawsociety.ie/education--cpd/Courses/micro-credentials/",
+      "change": "новое",
+      "importance": 2
+    },
+    {
+      "event_id": "GB-LS-practicenote-ai-2026-10",
+      "date_event": "2026-10-21",
+      "group": "II",
+      "country": "Англия и Уэльс",
+      "org": "Law Society",
+      "type": "руководство_ИИ",
+      "summary": "В разделе «AI and lawtech» Law Society в поисковой выдаче практическая записка «Using artificial intelligence in legal practice» значится с датой 21.10.2026; содержание изменений в выдаче не видно.",
+      "level": "М1",
+      "impact": "Если записка обновлена по существу, её стоит сверить с содержанием базового модуля М1 (правила использования ИИ, проверка результатов); до открытия страницы выводов нет.",
+      "verification": "НЕ ПРОВЕРЕНО",
+      "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/using-artificial-intelligence-in-legal-practice",
+      "change": "новое",
+      "importance": 2
+    }
+  ],
+  "unreachable": [],
+  "source_proposals": [
+    {
+      "name": "ФПА РФ — рубрика «Искусственный интеллект»",
+      "url": "https://fparf.ru/rubric/iskusstvennyy-intellekt/",
+      "why": "найдена в выдаче; тематическая лента ФПА по ИИ — подходит для уровня A группы РФ"
+    },
+    {
+      "name": "АП Москвы — ежемесячные расписания вебинаров (новости)",
+      "url": "https://www.advokatymoscow.ru/press/news/15820/",
+      "why": "палата публикует расписание вебинаров ежемесячно в разделе новостей; стоит добавить раздел press/news как ленту уровня A"
+    },
+    {
+      "name": "CNB — цикл вебинаров «IA et automatisation»",
+      "url": "https://www.cnb.avocat.fr/fr/cycle-de-webinaires-intelligence-artificielle-et-automatisation-transformer-la-pratique-juridique-2",
+      "why": "страница цикла вебинаров CNB по ИИ найдена в выдаче"
+    },
+    {
+      "name": "Law Society of Ireland — Micro-credentials",
+      "url": "https://www.lawsociety.ie/education--cpd/Courses/micro-credentials/",
+      "why": "каталог микроквалификаций, включая ИИ; в реестре нет"
+    }
+  ],
+  "notes": "Режим только_поиск: WebFetch не открыл ни одной из трёх контрольных страниц (fparf.ru, brak.de, cnb.avocat.fr — getaddrinfo ENOTFOUND, сетевая политика среды). Выполнено 16 поисковых запросов: РФ — 2 (extended), группа I — 2, II — 6, III и IV — 5 (один общий по Канаде, Австралии, Новой Зеландии и Сингапуру), общий англоязычный — 1. Первый запуск: окно 7 дней, уровни A+B. Не включено, проверить вручную: (1) Миланская коллегия адвокатов (OAM) — по выдаче, новость от 20.10.2026 о конференции «Avvocatura in evoluzione tra legge professionale e intelligenza artificiale» 30.10.2026; адрес конкретной страницы в выдаче не установлен. (2) Advokatakademien (Швеция) — курс «AI för advokater» в каталоге с датой 16.10.2026, а новость апреля 2026 называет первый запуск 20 мая; даты противоречат друг другу. Вне окна, для сведения: ФПА РФ — межрегиональная конференция «Адвокатура и искусственный интеллект: профессиональный стандарт новой эпохи» 17.09.2026 (Ростов-на-Дону); CNB и Jimini AI — доступ к ИИ-инструменту для всех élèves-avocats (по выдаче, 15.09.2026). Указаний на страницах и в выдаче, требующих действий, не встретилось."
+}
