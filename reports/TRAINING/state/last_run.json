@@ -1,11 +1,21 @@
 {
-  "run_date": "2026-10-22",
-  "window_from": "15.10.2026",
-  "new_events": 2,
+  "run_date": "2026-10-23",
+  "window_from": "22.10.2026",
+  "new_events": 3,
   "duplicates": 0,
-  "planned": 200,
-  "unreachable": 200,
+  "planned": 94,
+  "unreachable": 94,
   "fetch_mode": "только_поиск",
-  "subject": "ИИ-обучение адвокатов: мониторинг 22.10.2026 (2 новых события) — ОХВАТ НЕПОЛНЫЙ",
-  "previous": null
+  "subject": "ИИ-обучение адвокатов: мониторинг 23.10.2026 (3 новых события) — ОХВАТ НЕПОЛНЫЙ",
+  "previous": {
+    "run_date": "2026-10-22",
+    "window_from": "15.10.2026",
+    "new_events": 2,
+    "duplicates": 0,
+    "planned": 200,
+    "unreachable": 200,
+    "fetch_mode": "только_поиск",
+    "subject": "ИИ-обучение адвокатов: мониторинг 22.10.2026 (2 новых события) — ОХВАТ НЕПОЛНЫЙ",
+    "previous": null
+  }
 }
