@@ -1,0 +1,51 @@
+{
+  "run_date": "2026-10-27",
+  "window_from": "26.10.2026",
+  "fetch_mode": "только_поиск",
+  "events": [
+    {
+      "event_id": "US-NYSBA-ai-hallucinations-privilege-2026-10",
+      "date_event": "2026-10-27",
+      "group": "III",
+      "country": "США — Нью-Йорк",
+      "org": "NYSBA",
+      "type": "курс_ИИ",
+      "summary": "По данным поисковой выдачи, 27.10.2026 NYSBA проводит вебинар «AI for Lawyers: Avoiding Hallucinations and Preserving Privilege» (1,0 кредит CLE по этике и профессионализму): риски санкций за «галлюцинации» ИИ и конфиденциальность при вводе сведений клиента в ИИ-инструменты.",
+      "level": "М1",
+      "impact": "Тематика (проверка результатов ИИ, адвокатская тайна) совпадает с ядром базового модуля М1; пример зачёта такого курса в обязательные часы по этике.",
+      "verification": "НЕ ПРОВЕРЕНО",
+      "url": "https://nysba.org/events/ai-for-lawyers-avoiding-hallucinations-and-preserving-privilege/",
+      "change": "новое",
+      "importance": 2
+    },
+    {
+      "event_id": "US-NYSBA-ai-bias-equity-series-2026-10",
+      "date_event": "2026-10-27",
+      "group": "III",
+      "country": "США — Нью-Йорк",
+      "org": "NYSBA",
+      "type": "курс_ИИ",
+      "summary": "По данным поисковой выдачи, 27.10.2026 NYSBA проводит вебинар «Artificial Intelligence, Bias and Equity in Legal Practice» — первый в серии; основан на работе подкомитета по предвзятости и равенству Консультативного комитета судебной системы штата Нью-Йорк по ИИ.",
+      "level": "М3",
+      "impact": "Отдельная серия о предвзятости ИИ, опирающаяся на работу судебного комитета, — пример тематической специализации М3 с участием судебной системы.",
+      "verification": "НЕ ПРОВЕРЕНО",
+      "url": "https://nysba.org/events/artificial-intelligence-bias-and-equity-in-legal-practice/",
+      "change": "новое",
+      "importance": 2
+    }
+  ],
+  "unreachable": [],
+  "source_proposals": [
+    {
+      "name": "Law Society of Singapore — Legal Tech Adoption (расписание программ)",
+      "url": "https://www.lawsociety.org.sg/support-schemes/legal-tech-adoption/",
+      "why": "в выдаче — график программ по ИИ для практикующих (в т. ч. 21.10 и 11.11.2026); в реестре отсутствует"
+    },
+    {
+      "name": "DeutscheAnwaltAkademie — новость «KI im Kanzleialltag und in der Rechtsberatung – aktuelle Seminare»",
+      "url": "https://www.anwaltakademie.de/ueber-uns/neuigkeiten/ki-im-kanzleialltag-und-in-der-rechtsberatung-aktuelle-seminare-fuer-sie",
+      "why": "сводная страница DAA по семинарам ИИ; раздел «Neuigkeiten» подходит как лента уровня A вместо страниц отдельных семинаров"
+    }
+  ],
+  "notes": "Режим только_поиск: WebFetch не открыл ни одной из трёх контрольных страниц (fparf.ru, anwaltakademie.de, nysba.org — getaddrinfo ENOTFOUND, сетевая политика среды). Окно 26.10–27.10.2026, уровень A. Выполнено 8 поисковых запросов: РФ — 1 (extended), группа I — 1, II — 2, III — 2, IV — 1, Япония и Корея — 1. По РФ событий в окне не найдено. Вне окна, для сведения (НЕ ПРОВЕРЕНО): Law Society of Singapore — программа «Introduction to AI in Legal Technology – A Primer for Senior Practitioners 3.0» 21.10.2026 (в окна прежних запусков не попала); Сингапур, MinLaw — заявление о возможном выделении части CPD-баллов на курсы по ИИ, по выдаче, около полугода назад (вне окна; не новость). Ближайшие анонсы: NYSBA — 28.10 и 29.10.2026 (ещё две программы по ИИ); Миланская коллегия адвокатов — конференция 30.10.2026. Указаний на страницах и в выдаче, требующих действий, не встретилось."
+}
