@@ -1,0 +1,31 @@
+{
+  "run_date": "2026-10-29",
+  "window_from": "28.10.2026",
+  "fetch_mode": "только_поиск",
+  "events": [
+    {
+      "event_id": "US-NYSBA-ai-competence-crash-course-2026-10",
+      "date_event": "2026-10-29",
+      "group": "III",
+      "country": "США — Нью-Йорк",
+      "org": "NYSBA",
+      "type": "курс_ИИ",
+      "summary": "По данным поисковой выдачи, в календаре CLE-программ NYSBA на 29.10.2026 (17:30) значится очная программа «AI Competence Crash Course» (1,0 кредит CLE); в выдаче также упоминается одноимённый информационный вебинар в тот же день; полное описание в выдаче не видно.",
+      "level": "М1",
+      "impact": "Короткий интенсив по «компетентности в ИИ» — формат, сопоставимый с вводной частью базового модуля М1; без программы выводов нет.",
+      "verification": "НЕ ПРОВЕРЕНО",
+      "url": "https://nysba.org/live-programs/",
+      "change": "новое",
+      "importance": 1
+    }
+  ],
+  "unreachable": [],
+  "source_proposals": [
+    {
+      "name": "Law Society (Англия и Уэльс) — «Building your legal team’s AI skill set»",
+      "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/building-your-legal-teams-ai-skill-set",
+      "why": "материал о построении навыков ИИ в юридической команде найден в выдаче; подходит как источник уровня B для модулей М2 и М5"
+    }
+  ],
+  "notes": "Режим только_поиск: WebFetch не открыл ни одной из трёх контрольных страниц (advgazeta.ru, kirp.pl, lso.ca — getaddrinfo ENOTFOUND, сетевая политика среды). Окно 28.10–29.10.2026, уровень A. Выполнено 7 поисковых запросов: РФ — 1 (extended), группа I — 1, II — 2, III — 2, IV с Японией и Кореей — 1. По РФ событий в окне не найдено; по выдаче, курс СПбИА «Нейросети для юриста» (событие 28.10) проводится регулярно — предыдущий поток 14–30.04.2026, 24 академических часа. Анонсы после окна, для сведения (НЕ ПРОВЕРЕНО): Law Society (Англия и Уэльс) — онлайн-сессия «Innovation versus compliance: managing AI risk in legal practice» 06.11.2026 (communities.lawsociety.org.uk); AWAK (Вена) — «KI-fit an einem Tag» 11.11.2026 и «Vergabe trifft KI» 13.11.2026; DeutscheAnwaltAkademie — семинары по ИИ 02.11, 20.11 и 26.11.2026; Швеция — Advokatdagarna 19–20.11.2026 (наличие секции по ИИ не установлено). Указаний на страницах и в выдаче, требующих действий, не встретилось."
+}
