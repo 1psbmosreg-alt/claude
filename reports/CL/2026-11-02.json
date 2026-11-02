@@ -1,0 +1,44 @@
+{
+  "agent_code": "CL",
+  "period": {"start": "2026-10-26", "end": "2026-11-02"},
+  "generated_at": "2026-11-02",
+  "coverage_note": "Проверено: выполнено 42 из 42 запросов (Великобритания и Ирландия — 27, Австралия и Новая Зеландия — 11, Залив — 4), поисков по доменам 6 (все группы шага 1), проверок находок 4, вызовов Legal Data Hunter 2 (search по UK, IE и по AU, NZ — пусто; решения UK из Find Case Law не отображаются до включения доступа на legaldatahunter.com/uk-case-law). Недоступно: WebFetch не открывает сайты (ошибка DNS); итоговый доклад CJC включён по вторичным источникам. Исключено: консультация SRA об учёте ИИ в стандарте компетенций (до 03.12.2026) — уже в CL-20261014; практическая записка Law Society (21.10.2026) — уже в CL-20261022; позиция судебной системы Англии и Уэльса (09.10.2026) — уже в CL-20261013; SRA v Kumar (SDT 12884-2026) — сентябрь 2026; заявление ADGM Courts о сервисах на основе ИИ — анонс; Doha Legal Forum (QICDRC) — мероприятие. Решений о санкциях в периоде, подтверждённых текстом решения, не найдено. Отследить: проект Practice Direction и поправок к CPR по докладу CJC; пересмотр SC Gen 23 (NSW). Чужая зона: нет.",
+  "items": [
+    {
+      "item_id": "CL-20261102-001",
+      "jurisdiction": "GB",
+      "jurisdiction_name_ru": "Великобритания — Англия и Уэльс",
+      "issuer_original": "Civil Justice Council",
+      "issuer_ru": "Совет по гражданскому правосудию (Civil Justice Council, CJC)",
+      "issuer_type": "судейское_сообщество",
+      "category": "исследование",
+      "doc_type": "доклад",
+      "status": "принят",
+      "date_published": "2026-10-29",
+      "date_effective": null,
+      "title_original": "Use of AI for Preparing Court Documents: Final Report",
+      "title_ru": "Использование ИИ при подготовке судебных документов: итоговый доклад",
+      "identifier": null,
+      "summary_ru": "29.10.2026 рабочая группа Civil Justice Council (председатель — Lord Justice Birss) опубликовала итоговый доклад по консультации об использовании ИИ при подготовке судебных документов (промежуточный доклад и консультация — февраль 2026, приём ответов до 14.04.2026). По сообщениям юридических СМИ и фирм, CJC рекомендует Комитету по Правилам гражданского процесса изменить CPR и подготовить единое Practice Direction: для состязательных документов юристов (statements of case, skeleton arguments) новых деклараций об ИИ и разрешений на его использование не вводить — ответственность остаётся на представителе; свидетельские показания о фактах и заключения экспертов должны содержать декларацию об использовании ИИ, если он сформировал или повлиял на их содержание; вопрос об использовании ИИ сторонами без представителя предложено рассмотреть срочно. Это рекомендации, а не действующие правила. Текст доклада не открывался — сверить на judiciary.uk.",
+      "key_rule_ru": "CJC предлагает не регулировать отдельно использование ИИ юристами в процессуальных документах, но ввести через CPR декларации об ИИ для свидетельских показаний и экспертных заключений (рекомендация, не действующая норма).",
+      "quote_original": null,
+      "ru_relevance": "Ориентир для позиции адвоката о допустимости ИИ при подготовке процессуальных документов: акцент на персональной ответственности представителя и на защите доказательств (показания свидетеля и экспертное заключение должны отражать собственное знание лица, а не текст ИИ). Прямой применимости в РФ нет.",
+      "significance": 3,
+      "significance_reason": "Итоговый доклад по консультации CJC с рекомендациями поправок к CPR (шкала CL: консультация CJC — уровень 3; правил ещё нет).",
+      "source_url": null,
+      "source_language": "en",
+      "secondary_urls": [
+        "https://www.legalfutures.co.uk/latest-news/witnesses-of-fact-and-experts-should-have-to-declare-ai-use-to-court",
+        "https://www.lexisnexis.co.uk/legal/news/cjc-recommends-changes-to-civil-procedure-rules-governing-ai-use-in-preparing-court-documents",
+        "https://www.lawgazette.co.uk/news/cjc-reports-on-safe-use-of-artificial-intelligence-to-prepare-court-documents/5128388.article",
+        "https://www.hsfkramer.com/notes/litigation/2026-10/civil-justice-council-publishes-final-report-on-use-of-ai-for-preparing-court-documents",
+        "https://www.burges-salmon.com/articles/102o72x/ai-in-civil-litigation-use-of-ai-for-preparing-court-documents-final-report-by-t/",
+        "https://localgovernmentlawyer.co.uk/litigation-and-enforcement/400-litigation-news/102114-civil-justice-council-calls-for-new-practice-direction-on-ai-use-in-court-documents",
+        "https://www.judiciary.uk/wp-content/uploads/2026/02/Interim-Report-and-Consultation-Use-of-AI-for-Preparing-Court-Documents-2.pdf"
+      ],
+      "verification": "вторичные_источники",
+      "follow_up": "Проект Practice Direction и поправок к CPR от Civil Procedure Rule Committee; руководство для сторон без представителя.",
+      "tags": ["GB-ENG", "раскрытие_использования_ИИ", "свидетельские_показания", "экспертиза", "CPR"]
+    }
+  ]
+}
