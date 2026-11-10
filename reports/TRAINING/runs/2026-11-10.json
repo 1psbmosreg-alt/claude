@@ -1,0 +1,134 @@
+{
+  "run_date": "2026-11-10",
+  "window_from": "09.11.2026",
+  "fetch_mode": "страницы",
+  "events": [
+    {
+      "event_id": "RU-FPA-opinion-opyt-instrument-ai-2026-11",
+      "date_event": "2026-11-09",
+      "group": "РФ",
+      "country": "Россия",
+      "org": "ФПА РФ",
+      "type": "иное",
+      "summary": "09.11.2026 на сайте ФПА РФ (раздел «Полемика — Мнения») опубликована колонка председателя Совета молодых адвокатов Адвокатской палаты Республики Адыгея «Опыт без инструмента и инструмент без опыта» — о том, чему адвокаты могут научиться друг у друга при работе с ИИ. Автор описывает конференцию АП Краснодарского края «Искусственный интеллект в деятельности адвоката» 28.10.2026: многие опытные адвокаты ещё не пользуются ИИ, у молодых нет опыта оценки ответов; предлагает соединять опыт и навык, подчёркивает обязанность проверять представляемое суду (ссылается на определение ВС РФ от 03.09.2026 № 301-ЭС21-23756(4) — по тексту статьи, первоисточник не открывался).",
+      "level": "М1",
+      "impact": "Довод для М1: базовый модуль нужен опытным адвокатам не меньше, чем молодым; формат взаимного обучения (пары «опыт — навык») можно заложить в практикум М2.",
+      "verification": "ПРОВЕРЕНО",
+      "url": "https://fparf.ru/polemic/opinions/opyt-bez-instrumenta-i-instrument-bez-opyta/",
+      "change": "новое",
+      "importance": 2
+    }
+  ],
+  "unreachable": [
+    {
+      "code": "AT-OERAK-01",
+      "name": "Архив новостей ÖRAK",
+      "url": "https://www.oerak.at/aktuelles/aktuelles-archiv/",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "AU-LCA-02",
+      "name": "Сотрудничество с Федеральным судом по руководству о генеративном ИИ",
+      "url": "https://lawcouncil.au/media/news/law-council-collaborates-with-federal-court-on-generative-ai-guidelines-for-legal-proceedings",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "AU-LSNSW-02",
+      "name": "City of Sydney Law Society: семинар по ИИ (CPD)",
+      "url": "https://lawsociety.com.au/events/regional-law-society-calendar/city-sydney-law-society-dos-and-donts-ai-and-whats-coming",
+      "reason": "HTTP 404 — страница не найдена (адрес устарел)"
+    },
+    {
+      "code": "BE-AVB-01",
+      "name": "Academy AVOCATS.BE — «Nos formations»",
+      "url": "https://academy.avocats.be/formations",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "ES-CGAE-01",
+      "name": "Раздел «Formación» Abogacía Española",
+      "url": "https://www.abogacia.es/formacion/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "ES-CGAE-03",
+      "name": "Курс «Адвокатура, ИИ, нейроправа и метавселенная»",
+      "url": "https://www.abogacia.es/formacion/curso-de-especializacion-abogacia-inteligencia-artificial-neuroderechos-y-metaverso/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-PAR-01",
+      "name": "Академия ИИ Парижской коллегии адвокатов",
+      "url": "https://www.avocatparis.org/le-barreau-de-paris-lance-son-academie-ia-pour-former-les-avocats-une-intelligence-artificielle",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-SKL-01",
+      "name": "Платформа Skilia (курс ИИ для адвокатов)",
+      "url": "https://formation.lefebvre-dalloz.fr/skilia",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "GB-LS-03",
+      "name": "Мероприятия секции Risk and Compliance",
+      "url": "https://communities.lawsociety.org.uk/risk-and-compliance/events",
+      "reason": "HTTP 405 — сайт отклоняет автоматический запрос"
+    },
+    {
+      "code": "IL-IBA-02",
+      "name": "Повышение квалификации 2023 (онлайн-семинары)",
+      "url": "https://www.israelbar.org.il/magazine/online_seminars_2023/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "NL-NOVA-03",
+      "name": "Cursusaanbod PO (каталог курсов NOvA)",
+      "url": "https://www.advocatenorde.nl/opleiding/cursusaanbod-po",
+      "reason": "HTTP 404 — страница не найдена (адрес устарел)"
+    },
+    {
+      "code": "SG-LSS-03",
+      "name": "Law Gazette: раздел для членов",
+      "url": "https://lawgazette.com.sg/category/members/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-01",
+      "name": "Центр инноваций ABA: ИИ",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-02",
+      "name": "Центр инноваций ABA: ИИ и юридическое образование",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/ai-in-legal-education/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-03",
+      "name": "Центр инноваций ABA: вебинары по ИИ (архив)",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/past-webinars/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-05",
+      "name": "ABA Learning Center (CLE): курсы по ИИ",
+      "url": "https://learningcenter.americanbar.org/courses?courses%5Bquery%5D=artificial+intelligence",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-06",
+      "name": "Legal Technology Resource Center (Law Practice Division)",
+      "url": "https://www.americanbar.org/groups/law_practice/resources/legal-technology-resource-center/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    }
+  ],
+  "source_proposals": [
+    {
+      "name": "ФПА РФ — «Иные обучающие мероприятия»",
+      "url": "https://fparf.ru/education/other-events/",
+      "why": "раздел обучения ФПА с мероприятиями партнёров (в т. ч. курсы по ИИ); найден в выдаче, в реестре отсутствует — уровень A"
+    }
+  ],
+  "notes": "Режим страницы: WebFetch не разрешает адреса (getaddrinfo ENOTFOUND), страницы плана открыты прямыми HTTPS-запросами (curl) через прокси среды «advokat — мониторинг»; текст извлечён скриптом, совпадения с датами окна (09–10.11.2026) найдены поиском по тексту и прочитаны. Окно 09.11–10.11.2026, уровень A, 98 страниц: открыто 81, не открылись 17 (11 — HTTP 403, 3 — нет ответа, 2 — HTTP 404, 1 — HTTP 405). Дополнительно открыта 1 страница вне реестра (колонка на fparf.ru). Выполнено 2 поисковых запроса (РФ — 1 extended, остальные группы — 1). Даты окна на открытых страницах АПМО, АП Кировской области (через ФПА), OVB, ČAK, DAA, Advokatsamfundet (DK), Suomen Asianajajat, OAM, KIRP, MinLaw, TexasBarCLE относятся к новостям и мероприятиям не об обучении ИИ. Ограничение метода: учитываются только материалы с явной датой окна в тексте страницы. Указаний на страницах и в выдаче, требующих действий, не встретилось."
+}
