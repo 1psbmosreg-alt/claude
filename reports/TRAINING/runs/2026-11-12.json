@@ -1,0 +1,137 @@
+{
+  "run_date": "2026-11-12",
+  "window_from": "11.11.2026",
+  "fetch_mode": "страницы",
+  "events": [
+    {
+      "event_id": "DE-BRAK-ki-leitfaden-aktualisiert-2026-11",
+      "date_event": "2026-11-11",
+      "group": "I",
+      "country": "Германия",
+      "org": "BRAK",
+      "type": "руководство_ИИ",
+      "summary": "11.11.2026 BRAK (Nachrichten aus Berlin, Ausgabe 23/2026) сообщила, что руководство «Hinweise zum Einsatz von künstlicher Intelligenz» (KI-Leitfaden; первая редакция — декабрь 2024) опубликовано в обновлённой и расширенной редакции. По тексту сообщения, руководство охватывает самостоятельную проверку и окончательный контроль результатов ИИ, особые обязанности осмотрительности (§ 43 BRAO), адвокатскую тайну (§ 43a II BRAO), защиту данных (§ 43e BRAO, DSGVO, BDSG), требования Регламента ЕС об ИИ и его соотношение с профессиональным правом, а также ссылки на руководства европейских адвокатских организаций.",
+      "level": "М1",
+      "impact": "Обновлённый ориентир национального органа для базового модуля М1 (проверка результатов ИИ, тайна, защита данных, Регламент ЕС об ИИ) — материал для сравнения содержания программы; сам текст руководства (PDF) в этом запуске не открывался.",
+      "verification": "ПРОВЕРЕНО",
+      "url": "https://www.brak.de/newsroom/newsletter/nachrichten-aus-berlin/2026/ausgabe-23-2026-v-11112026/kuenstliche-intelligenz-in-anwaltskanzleien-brak-hinweise-aktualisiert/",
+      "change": "новое",
+      "importance": 3
+    },
+    {
+      "event_id": "NZ-NZLS-ai-lighten-the-load-session-2026-11",
+      "date_event": "2026-11-12",
+      "group": "IV",
+      "country": "Новая Зеландия",
+      "org": "NZLS",
+      "type": "курс_ИИ",
+      "summary": "В разделе «AI Learning for Lawyers» хаба NZLS по ИИ на 12.11.2026 назначена сессия «Does AI Actually Lighten the Load, or Just Raise the Bar?» — обсуждение влияния ИИ на продуктивность, результативность, благополучие и характер юридической работы. Там же анонсированы сессии 18.11.2026 («The AI-ready legal team – Leadership, capability and the future profession») и 10.12.2026 (мастер-класс «Agentic AI in legal practice»).",
+      "level": "М5",
+      "impact": "Тема нагрузки и организации работы с ИИ — материал для модуля руководителей М5; формат и часы CPD на странице хаба не указаны.",
+      "verification": "ПРОВЕРЕНО",
+      "url": "https://www.lawsociety.org.nz/professional-practice/aihub/",
+      "change": "новое",
+      "importance": 1
+    }
+  ],
+  "unreachable": [
+    {
+      "code": "AU-LCA-02",
+      "name": "Сотрудничество с Федеральным судом по руководству о генеративном ИИ",
+      "url": "https://lawcouncil.au/media/news/law-council-collaborates-with-federal-court-on-generative-ai-guidelines-for-legal-proceedings",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "AU-LSNSW-02",
+      "name": "City of Sydney Law Society: семинар по ИИ (CPD)",
+      "url": "https://lawsociety.com.au/events/regional-law-society-calendar/city-sydney-law-society-dos-and-donts-ai-and-whats-coming",
+      "reason": "HTTP 404 — страница не найдена (адрес устарел)"
+    },
+    {
+      "code": "BE-AVB-01",
+      "name": "Academy AVOCATS.BE — «Nos formations»",
+      "url": "https://academy.avocats.be/formations",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "BE-OVB-02",
+      "name": "Kennisbank «Opleidingen»",
+      "url": "https://www.ordevanvlaamsebalies.be/nl/kennisbank/opleidingen",
+      "reason": "HTTP 429 — сайт ограничил частоту запросов"
+    },
+    {
+      "code": "ES-CGAE-01",
+      "name": "Раздел «Formación» Abogacía Española",
+      "url": "https://www.abogacia.es/formacion/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-PAR-01",
+      "name": "Академия ИИ Парижской коллегии адвокатов",
+      "url": "https://www.avocatparis.org/le-barreau-de-paris-lance-son-academie-ia-pour-former-les-avocats-une-intelligence-artificielle",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-SKL-01",
+      "name": "Платформа Skilia (курс ИИ для адвокатов)",
+      "url": "https://formation.lefebvre-dalloz.fr/skilia",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "GB-LS-03",
+      "name": "Мероприятия секции Risk and Compliance",
+      "url": "https://communities.lawsociety.org.uk/risk-and-compliance/events",
+      "reason": "HTTP 405 — сайт отклоняет автоматический запрос"
+    },
+    {
+      "code": "IL-IBA-02",
+      "name": "Повышение квалификации 2023 (онлайн-семинары)",
+      "url": "https://www.israelbar.org.il/magazine/online_seminars_2023/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "NL-NOVA-03",
+      "name": "Cursusaanbod PO (каталог курсов NOvA)",
+      "url": "https://www.advocatenorde.nl/opleiding/cursusaanbod-po",
+      "reason": "HTTP 404 — страница не найдена (адрес устарел)"
+    },
+    {
+      "code": "SG-LSS-03",
+      "name": "Law Gazette: раздел для членов",
+      "url": "https://lawgazette.com.sg/category/members/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-01",
+      "name": "Центр инноваций ABA: ИИ",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-02",
+      "name": "Центр инноваций ABA: ИИ и юридическое образование",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/ai-in-legal-education/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-03",
+      "name": "Центр инноваций ABA: вебинары по ИИ (архив)",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/past-webinars/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-05",
+      "name": "ABA Learning Center (CLE): курсы по ИИ",
+      "url": "https://learningcenter.americanbar.org/courses?courses%5Bquery%5D=artificial+intelligence",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-06",
+      "name": "Legal Technology Resource Center (Law Practice Division)",
+      "url": "https://www.americanbar.org/groups/law_practice/resources/legal-technology-resource-center/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    }
+  ],
+  "source_proposals": [],
+  "notes": "WebFetch в этой среде недоступен (ENOTFOUND на fparf.ru, consiglionazionaleforense.it, nysba.org); страницы плана открыты через curl (HTTPS-прокси среды): 82 из 98 открылись. Статус ПРОВЕРЕНО означает, что страница первоисточника открыта curl в этом запуске. Поиск: 12 запросов WebSearch (режим standard) на русском, немецком, французском, английском (2), итальянском, испанском, норвежском, датском, польском, нидерландском, японском; португальский, шведский, финский, чешский, корейский и иврит в этом запуске не запрашивались. Новых материалов об обучении ИИ, датированных 11–12.11.2026, выдача не дала. Сводка одного поискового ответа утверждала, что обновления руководства BRAK в 2026 г. нет, — это опровергается страницей BRAK от 11.11.2026, открытой в этом запуске; событие основано на первоисточнике. Не включено как вне предмета: ЧАК, 12.11.2026 — дискуссионная встреча «Moc technologických firem, zdaňování zisků z dat a AI na hraně právního státu» (власть технологических компаний и налогообложение, а не обучение работе с ИИ). Не включено как вне окна: изменения NRA (Польша) в Кодекс этики об использовании ИИ — публикации rp.pl и prawo.pl от 16.06.2026; повтор курса State Bar of Texas «Law in the Age of AI: From Core Concepts to Daily Practice» — 13.11.2026. Прочие материалы окна на страницах реестра ИИ не касаются: расписание семинаров АПРО на ноябрь (11.11.2026; темы — процесс, доказательства, апелляция), вебинар ФПА РФ 11.11.2026, семинары ЧАК 11–12.11.2026, курсы Asianajajaliitto 12.11.2026, новости OAM, АП МО, Advokatsamfundet. Отметки «printed on 12/11/2026» (Law Society) и «Last Updated» (MinLaw) — служебные подписи сайтов."
+}
