@@ -1,0 +1,10 @@
+{
+  "agent_code": "NA",
+  "period": {
+    "start": "2026-11-06",
+    "end": "2026-11-13"
+  },
+  "generated_at": "2026-11-13",
+  "coverage_note": "ОХВАТ НЕПОЛНЫЙ: Legal Data Hunter исчерпал дневной лимит бесплатного тарифа, тексты решений США и Канады через него не проверены. Проверено: запросов 60 (США — 33, Канада — 27, включая 6 французских), поисков по доменам 8, вызовов Legal Data Hunter 2 (отклонены). База AI Hallucination Cases открыта: новых решений США и Канады после 06.11 нет; courtready.ca — новых решений Канады после 03.11 нет. Недоступно: reuters.com для поиска; Law360 — только анонсы. Исключено: Pennsylvania AIAC, проект уведомления о проверке ИИ-контента всеми подателями (56 Pa.B. 6888, 24.10.2026) — вне периода, комментарии до 24.11.2026; Velázquez Feliciano v. Velázquez Feliciano, 2026 TSPR 110 (Верховный суд Пуэрто-Рико, 28.10.2026, стороны без адвоката, по $500) — вне периода, первая публикация в периоде не подтверждена; D. Mass., Aguilar v. Crawford Group и D. Del., санкции $3 000 (Law360, 10.11.2026) — текст не найден, источник один; Lashbrook v. Estate of Grasak (Mich. Ct. App., 28.10.2026) — только show cause; решения конца октября из базы Charlotin (в т.ч. U.S. ex rel. Phillips v. Los Angeles Film School, 23.10.2026) — опубликованы до периода; статистика Lexum и Courtready (Droit-inc 12.11.2026) — не официальный орган; Tenth Circuit R. 46.5, Texas 26-9054, FRE 707/901(c), FRCP 11, Nippon Life v. OpenAI, Florida Bar, Ontario CRC — новых событий нет. Чужая зона: Civil Justice Council (Англия и Уэльс), Cornwall Council v M [2026] EWFC 306, практические указания Австралии и Ирландии.",
+  "items": []
+}
