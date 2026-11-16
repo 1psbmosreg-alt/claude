@@ -1,0 +1,202 @@
+{
+  "run_date": "2026-11-16",
+  "window_from": "13.11.2026",
+  "fetch_mode": "страницы",
+  "events": [],
+  "unreachable": [
+    {
+      "code": "AU-LIV-01",
+      "name": "Хаб по ИИ (ресурсы и видео CPD on Demand)",
+      "url": "https://www.liv.asn.au/aihub",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "AU-LIV-02",
+      "name": "Соблюдение требований CPD",
+      "url": "https://www.liv.asn.au/cpdcompliance",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "AU-LIV-03",
+      "name": "Видеокурс CPD: генеративный ИИ и цифровая грамотность",
+      "url": "https://www.liv.asn.au/itemdetail?iProductCode=CPDVID000180",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "BE-AVB-01",
+      "name": "Academy AVOCATS.BE — «Nos formations»",
+      "url": "https://academy.avocats.be/formations",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "BE-AVB-02",
+      "name": "Atelier «De l'automatisation à l'IA»",
+      "url": "https://academy.avocats.be/formations/atelier/de-lautomatisation-lintelligence-artificielle",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "BE-AVB-03",
+      "name": "La Tribune — «IA4AVOCATS»",
+      "url": "https://latribune.avocats.be/fr/ia4avocats",
+      "reason": "HTTP 503 — сервис недоступен"
+    },
+    {
+      "code": "BE-AVB-04",
+      "name": "Code de déontologie — formation continue (PDF)",
+      "url": "https://avocats.be/sites/avocatsbe/files/2026-01/28.01.2026-code-deontologie-version-francaise-en-vigueur-au-28.01.2026.pdf",
+      "reason": "HTTP 404 — страница не найдена (адрес устарел)"
+    },
+    {
+      "code": "FR-PAR-01",
+      "name": "Академия ИИ Парижской коллегии адвокатов",
+      "url": "https://www.avocatparis.org/le-barreau-de-paris-lance-son-academie-ia-pour-former-les-avocats-une-intelligence-artificielle",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-SKL-01",
+      "name": "Платформа Skilia (курс ИИ для адвокатов)",
+      "url": "https://formation.lefebvre-dalloz.fr/skilia",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "GB-LS-03",
+      "name": "Мероприятия секции Risk and Compliance",
+      "url": "https://communities.lawsociety.org.uk/risk-and-compliance/events",
+      "reason": "HTTP 405 — сайт отклоняет автоматический запрос"
+    },
+    {
+      "code": "IE-BOI-01",
+      "name": "Компетентностная рамка CPD (2021)",
+      "url": "https://members.lawlibrary.ie/app/uploads/2021/04/Competency-framework-for-CPD-approved.pdf",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "IE-BOI-02",
+      "name": "Bar Review (окт. 2025) — тема ИИ",
+      "url": "https://www.lawlibrary.ie/app/uploads/securepdfs/2025/10/The_Bar_Review_October2025_web.pdf",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "IL-IBA-01",
+      "name": "Журнал «Профессиональная этика» № 72",
+      "url": "https://www.israelbar.org.il/magazine/professional_ethics_issue_72/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "IL-IBA-02",
+      "name": "Повышение квалификации 2023 (онлайн-семинары)",
+      "url": "https://www.israelbar.org.il/magazine/online_seminars_2023/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "JP-JFBA-03",
+      "name": "Газета JFBA № 607 (лекция «Генеративный ИИ и юридическая практика»)",
+      "url": "https://www.nichibenren.or.jp/document/newspaper/year/2024/607.html",
+      "reason": "HTTP 406 — сайт отклоняет автоматический запрос"
+    },
+    {
+      "code": "KR-KBA-01",
+      "name": "Деятельность адвокатских объединений по ИИ (G7 Bars; IBA; LAWASIA)",
+      "url": "https://koreanbar.or.kr/pages/news/view.asp?category=&page=3&searchstr=&searchtype=contents&seq=13728&teamcode=&types=2",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "KR-KBA-02",
+      "name": "Газета KBA: спецкурс «ИИ в практике завещаний и опеки» (зачёт часов)",
+      "url": "https://news.koreanbar.or.kr/news/articleView.html?idxno=35844",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "KR-SBA-01",
+      "name": "Бюллетень Сеульской коллегии: ИИ и руководства для адвокатов",
+      "url": "http://m.news.seoulbar.or.kr/news/articleView.html?idxno=3695",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "NL-NOVA-01",
+      "name": "Aanbevelingen AI in de advocatuur",
+      "url": "https://www.advocatenorde.nl/voor-advocaten/digitalisering-ai/aanbevelingen-ai-de-advocatuur",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "SG-LSS-03",
+      "name": "Law Gazette: раздел для членов",
+      "url": "https://lawgazette.com.sg/category/members/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "SG-SAL-01",
+      "name": "Новость SAL об обязательном CPD для всех практикующих",
+      "url": "https://sal.org.sg/articles/continuing-professional-development-will-be-compulsory-for-all-legal-practitioners/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-01",
+      "name": "Центр инноваций ABA: ИИ",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-02",
+      "name": "Центр инноваций ABA: ИИ и юридическое образование",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/ai-in-legal-education/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-03",
+      "name": "Центр инноваций ABA: вебинары по ИИ (архив)",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/past-webinars/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-04",
+      "name": "Formal Opinion 512 о генеративном ИИ (PDF)",
+      "url": "https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/ethics-opinions/aba-formal-opinion-512.pdf",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-05",
+      "name": "ABA Learning Center (CLE): курсы по ИИ",
+      "url": "https://learningcenter.americanbar.org/courses?courses%5Bquery%5D=artificial+intelligence",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-06",
+      "name": "Legal Technology Resource Center (Law Practice Division)",
+      "url": "https://www.americanbar.org/groups/law_practice/resources/legal-technology-resource-center/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-07",
+      "name": "Сводка рабочих групп по ИИ при коллегиях штатов",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/state-ai-task-force-information/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-NY-CLEB-01",
+      "name": "FAQ для опытных адвокатов",
+      "url": "https://www.nycourts.gov/continuing-legal-education-cle/faqs-experienced-attorneys",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-NY-CLEB-02",
+      "name": "Program Rules: обзор изменений",
+      "url": "https://www.nycourts.gov/continuing-legal-education-cle/program-rules-highlights-changes",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-TX-TBCLE-01",
+      "name": "Календарь мероприятий и вебкастов",
+      "url": "https://www.texasbarcle.com/new/EventsCalendar.asp",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-TX-TBCLE-02",
+      "name": "Список курсов",
+      "url": "https://www.texasbarcle.com/new/courselist.asp",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    }
+  ],
+  "source_proposals": [],
+  "notes": "WebFetch в этой среде недоступен (ENOTFOUND на fparf.ru, advgazeta.ru, brak.de); страницы плана (уровни A и B, понедельник) загружены запасным способом через curl (fetch_pages.py): 173 из 205 открылись. Статус ПРОВЕРЕНО в этом режиме означает, что страница открыта curl в этом запуске. Новых событий об обучении ИИ, датированных 13–16.11.2026, не найдено. Повторы, не включённые повторно: BRAK — новость об обновлённом руководстве по ИИ на странице тега датирована 13.11.2026 (событие уже учтено как DE-BRAK-ki-leitfaden-aktualisiert-2026-11); OVB, 13.11.2026 — анонс YouTube Live об ИИ 18.11.2026 (учтено как BE-OVB-youtube-live-ai-advocatuur-2026-11); АП Московской области, 13.11.2026 — анонс круглого стола «Искусственный интеллект в деятельности адвоката: риски и перспективы» (учтено как RU-FPA-SMAR-kruglyi-stol-ii-2026-11). Вне окна: лента новостей NOvA (Actueel, NL-NOVA-03 — адрес в реестре с 15.11.2026) — последний материал от 12.11.2026 «NOvA start campagne over verantwoord AI-gebruik en de herziene Aanbevelingen AI in de advocatuur»; в накопительной таблице этого события нет. Вне предмета: NYSBA 16.11.2026 — Legal Tech Roundtable Part 1 (кибербезопасность и управление данными); SAL (Сингапур) 13.11.2026 — пресс-обзор о рисках ИИ-агентов в банках. Материалы ФПА РФ за 13.11.2026 (в т. ч. отчёт о заседании Совета ФПА РФ 12.11.2026, программа международных практических семинаров) открыты — ИИ не касаются. Поиск: 13 запросов WebSearch (standard) на русском, немецком, французском, английском (2), итальянском, испанском, польском, нидерландском, норвежском, японском, португальском, иврите; шведский, датский, финский, чешский и корейский в этом запуске не запрашивались; материалов, датированных 13–16.11.2026, выдача не дала. BE-AVB-04 (PDF кодекса деонтологии avocats.be) отвечает 404 — адрес в реестре нужно заменить. Отметки «printed on 16/11/2026» (Law Society) и «16/11/2026 04:28» (подвал сайта OA, Португалия) — служебные подписи сайтов."
+}
