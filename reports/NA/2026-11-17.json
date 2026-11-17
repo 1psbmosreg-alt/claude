@@ -1,0 +1,85 @@
+{
+  "agent_code": "NA",
+  "period": {
+    "start": "2026-11-10",
+    "end": "2026-11-17"
+  },
+  "generated_at": "2026-11-17",
+  "coverage_note": "Проверено: запросов 63 (США — 36, Канада — 27, включая 10 французских), поисков по доменам 8, вызовов Legal Data Hunter 2 (поиски по US и CA за 03–17.11.2026, релевантных решений нет). Базы AI Hallucination Cases и courtready.ca (обновлена 16.11.2026) открыты: новых решений Канады после 03.11 нет. Недоступно: law360.com (только анонсы); тексты решений D. Del., S.D. Ohio, Mass. App. Ct. прочитаны по копиям в базе Charlotin. Исключено: Evans v. Collins, No. 25-1403 (Fed. Cir., прецедентное решение 09.11.2026; предупреждение юристам о выдуманных ИИ ссылках) и Pipkin v. Town of Colorado City (D. Ariz., 09.11.2026) — опубликованы до периода; Loop v. Loop (Wash. Ct. App., неопубликовано, сторона без адвоката, расходы противной стороне) — дата решения в тексте не видна; Gardner v. Coldwell Banker (D.N.M., 10.11.2026) — отказ пересмотреть штраф 1 000 $ за неисполнение приказа, ИИ не установлен; Sherman v. Butler (Pa. Super.) и Borsody (D. Kan.) — санкций нет, не проверялись; Pennsylvania AIAC, проект о проверке ИИ-контента (комментарии до 24.11.2026) — опубликован до периода; Ontario Civil Rules Committee — пересмотренный проект правил о доказательствах, созданных ИИ, не найден; Tenth Circuit R. 46.5, Texas 26-9054, FRE 707/901(c), FRCP 11, Nippon Life v. OpenAI, проект Barreau du Québec о новаторских юридических услугах — новых событий нет. Чужая зона: Law Society (Англия и Уэльс), practice note об ИИ (21.10.2026); практические указания судов Австралии.",
+  "items": [
+    {
+      "item_id": "NA-20261117-001",
+      "jurisdiction": "US",
+      "jurisdiction_name_ru": "США — Западная Вирджиния",
+      "issuer_original": "Supreme Court of Appeals of West Virginia",
+      "issuer_ru": "Верховный апелляционный суд Западной Вирджинии",
+      "issuer_type": "суд",
+      "category": "санкции_за_ошибки_ИИ",
+      "doc_type": "судебное_решение",
+      "status": "решение_вынесено",
+      "date_published": "2026-11-12",
+      "date_effective": null,
+      "title_original": "In re A.S., R.S.-1, and L.S.",
+      "title_ru": "По делу несовершеннолетних A.S., R.S.-1 и L.S.",
+      "identifier": "No. 25-425 (W. Va.)",
+      "summary_ru": "Высший суд штата в подписанном решении (Justice Kirkpatrick, 12.11.2026) по делу о защите детей отменил прекращение родительских прав и вернул дело в окружной суд округа Брук. В сноске 12 суд указал, что бриф заявителей содержал неточные ссылки на прецеденты, законы и правила, в том числе выдуманный syllabus point (положение, приписанное самому суду) и вымышленные цитаты, — признаки использования генеративного ИИ. Сославшись на Legal Ethics Opinion 24-01 Дисциплинарного совета адвокатов штата (14.06.2024), суд напомнил всем членам адвокатуры о личной обязанности проверять каждую ссылку и поручил секретарю направить заверенную копию решения в Office of Disciplinary Counsel, не высказываясь о том, нужно ли дисциплинарное производство. Текст прочитан по копии в базе AI Hallucination Cases; решение размещено на сайте суда.",
+      "key_rule_ru": "Выдуманные ИИ ссылки и цитаты в апелляционном брифе влекут направление материалов в дисциплинарный орган, а проверка каждой ссылки — личная обязанность юриста, которую нельзя переложить на технологию.",
+      "quote_original": "We remind all members of the legal profession that they remain personally responsible for verifying the accuracy of every citation, quotation, and statement of law submitted to the Court.",
+      "ru_relevance": "Аргумент о стандарте профессиональной осмотрительности: высший суд штата прямо связывает использование ИИ с обязанностями компетентности и добросовестности перед судом; модель для внутренних правил бюро о проверке каждой ссылки перед подачей.",
+      "significance": 4,
+      "significance_reason": "Решение высшего суда штата, которое адресует всем членам адвокатуры штата обязанность личной проверки ссылок и направляет материалы в дисциплинарный орган.",
+      "source_url": "https://www.courtswv.gov/sites/default/pubfilesmnt/2026-11/25-425%20Signed%20Opinion.pdf",
+      "source_language": "en",
+      "secondary_urls": [
+        "https://www.damiencharlotin.com/documents/3448/In_re_A.S._R.S.-1_and_L.S_USA_12-11-2026.pdf"
+      ],
+      "verification": "первоисточник",
+      "follow_up": "Решение Office of Disciplinary Counsel Западной Вирджинии о возбуждении дисциплинарного производства.",
+      "tags": [
+        "US-WV",
+        "выдуманные_ссылки",
+        "направление_в_дисциплинарный_орган",
+        "высший_суд_штата"
+      ]
+    },
+    {
+      "item_id": "NA-20261117-002",
+      "jurisdiction": "US",
+      "jurisdiction_name_ru": "США (суды разных уровней)",
+      "issuer_original": "U.S. federal and state courts",
+      "issuer_ru": "суды США",
+      "issuer_type": "суд",
+      "category": "санкции_за_ошибки_ИИ",
+      "doc_type": "иное",
+      "status": "решение_вынесено",
+      "date_published": "2026-11-12",
+      "date_effective": null,
+      "title_original": "Sanctions for AI-fabricated citations: decisions of 2026-11-09 – 2026-11-12",
+      "title_ru": "Санкции за выдуманные ИИ ссылки: сводка решений за 09.11.2026 – 12.11.2026",
+      "identifier": null,
+      "summary_ru": "Новых подтверждённых решений с прошлого отчёта: 4 (среди них 3 против сторон без адвоката). Branham v. Miami Valley Hospital/Premier Health Network, No. 3:24-cv-301 (S.D. Ohio, 12.11.2026, судья Michael J. Newman): истица без адвоката признала использование ИИ при подготовке «omnibus reply», где найдены ссылки, вероятно выдуманные ИИ; суд обязал её до 19.11.2026 объяснить, почему иск не следует отклонить за нарушение standing order судьи, запрещающего использовать ИИ при подготовке документов. Care and Protection of Veda, No. 26-P-430 (Mass. App. Ct., 12.11.2026): мать, признавшая, что онлайн-инструмент ИИ выдумал ссылки, предупреждена о санкциях при повторе. Gill v. Everyday Dose, Inc., C.A. No. 24-1359-RGA-EGT (D. Del.; по базе AI Hallucination Cases — 09.11.2026, в копии текста дата не видна; Law360 сообщил 10.11.2026): по 3 000 долларов по Rule 11 с двух иногородних адвокатов, копии приказа — в органы допуска Нью-Джерси и Нью-Йорка, обязанность прилагать приказ к будущим ходатайствам о допуске pro hac vice; местный адвокат, подписавший бриф, освобождён от санкций с учётом раскаяния и принятой им политики об ИИ; суд упомянул и ранее удостоверенные факты для производства о неуважении к суду в отношении одного из адвокатов. Также предупреждение стороне без адвоката: Messinger v. Samsung Electronics America, No. 26-cv-22307 (S.D. Fla., 10.11.2026). Тексты прочитаны по копиям в базе AI Hallucination Cases.",
+      "key_rule_ru": "Суды применяют к выдуманным ИИ ссылкам Rule 11, предупреждения и собственные запреты на ИИ, а ответственность за проверку несут все юристы, участвовавшие в подготовке документа, в том числе не подписавшие его.",
+      "quote_original": null,
+      "ru_relevance": "Ориентир для внутренних правил бюро: ответственность за проверку ссылок лежит на каждом юристе, готовившем документ, а принятая политика об ИИ и признание ошибки смягчают последствия.",
+      "significance": 2,
+      "significance_reason": "Сводная запись о рядовых решениях первой инстанции и неопубликованном решении промежуточного апелляционного суда штата.",
+      "source_url": "https://www.damiencharlotin.com/documents/3450/Nikia_J._Branham_v._Miami_Valley_HospitalPremier_Health_Network_USA_12-11-2026.pdf",
+      "source_language": "en",
+      "secondary_urls": [
+        "https://www.damiencharlotin.com/documents/3433/Care_and_Protection_of_Veda_USA_25-02-2026.pdf",
+        "https://www.damiencharlotin.com/documents/3439/Gill_v._Everyday_Dose_Inc_USA.pdf",
+        "https://www.damiencharlotin.com/documents/3442/Messinger_v._Samsung_Electronics_America_Inc_USA_25-11-2026.pdf"
+      ],
+      "verification": "первоисточник",
+      "follow_up": null,
+      "tags": [
+        "US-OH",
+        "US-MA",
+        "US-DE",
+        "US-FL",
+        "сводная_запись",
+        "выдуманные_ссылки"
+      ]
+    }
+  ]
+}
