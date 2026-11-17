@@ -1,0 +1,131 @@
+{
+  "run_date": "2026-11-17",
+  "window_from": "16.11.2026",
+  "fetch_mode": "страницы",
+  "events": [
+    {
+      "event_id": "RU-MAF-ii-moskovskiy-forum-sessiya-ii-2026-11",
+      "date_event": "2026-11-16",
+      "group": "РФ",
+      "country": "Россия",
+      "org": "II Московский адвокатский форум (при поддержке ФПА РФ и АП Московской области)",
+      "type": "иное",
+      "summary": "16.11.2026 в Москве прошёл II Московский адвокатский форум (МАФ-2026) при поддержке ФПА РФ и АП Московской области; по сообщению АП МО, в концепцию форума вошли интеграция цифровых технологий в практику и сохранение этических стандартов при использовании искусственного интеллекта, участников — более 200 из 51 субъекта РФ. В отчёте ФПА РФ о пленарной сессии упомянута отдельная сессия, посвящённая ИИ: вице-президент ФПА РФ А. Галоганов отметил необходимость осмыслить влияние новых технологий на адвокатскую деятельность, в том числе с точки зрения сохранения адвокатской тайны. Содержание самой сессии по ИИ в открытых материалах на 17.11.2026 не изложено.",
+      "level": "М1",
+      "impact": "Тема ИИ и адвокатской тайны в повестке руководства ФПА РФ — материал для базового модуля М1; итоги сессии по ИИ стоит отследить.",
+      "verification": "ПРОВЕРЕНО",
+      "url": "https://fparf.ru/news/fpa/zhivoy-dialog-s-fpa-rf/",
+      "change": "новое",
+      "importance": 2
+    },
+    {
+      "event_id": "IT-OAM-convegno-governare-ia-2026-11",
+      "date_event": "2026-11-16",
+      "group": "II",
+      "country": "Италия",
+      "org": "Ordine degli Avvocati di Milano",
+      "type": "курс_ИИ",
+      "summary": "16.11.2026 Миланская коллегия адвокатов открыла запись на конференцию «Governare l'intelligenza artificiale: sorveglianza umana, rischi penali e tutele civili dopo il DLGS 160/2026» — 23.11.2026, 14:30–17:30, Дворец правосудия в Милане (зал Eligio Gualdoni); участие бесплатное, засчитываются 3 кредита непрерывного обучения; приветствие — координатор Комиссии молодых адвокатов коллегии.",
+      "level": "М3",
+      "impact": "Короткое зачётное мероприятие коллегии о правовом режиме ИИ (человеческий контроль, уголовные риски, гражданско-правовая защита) — пример формата для специализаций М3; на российские нормы не переносится.",
+      "verification": "ПРОВЕРЕНО",
+      "url": "https://www.ordineavvocatimilano.it/it/news/convegno-23-novembre-2026-governare-l-intelligenza-artificiale-sorveglianza-umana-rischi-penali-e-tutele-civili-dopo-il-dlgs-1602026/p100-n3366",
+      "change": "новое",
+      "importance": 2
+    }
+  ],
+  "unreachable": [
+    {
+      "code": "AU-LIV-01",
+      "name": "Хаб по ИИ (ресурсы и видео CPD on Demand)",
+      "url": "https://www.liv.asn.au/aihub",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "AU-LIV-03",
+      "name": "Видеокурс CPD: генеративный ИИ и цифровая грамотность",
+      "url": "https://www.liv.asn.au/itemdetail?iProductCode=CPDVID000180",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "BE-AVB-01",
+      "name": "Academy AVOCATS.BE — «Nos formations»",
+      "url": "https://academy.avocats.be/formations",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "FR-PAR-01",
+      "name": "Академия ИИ Парижской коллегии адвокатов",
+      "url": "https://www.avocatparis.org/le-barreau-de-paris-lance-son-academie-ia-pour-former-les-avocats-une-intelligence-artificielle",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-SKL-01",
+      "name": "Платформа Skilia (курс ИИ для адвокатов)",
+      "url": "https://formation.lefebvre-dalloz.fr/skilia",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "GB-LS-03",
+      "name": "Мероприятия секции Risk and Compliance",
+      "url": "https://communities.lawsociety.org.uk/risk-and-compliance/events",
+      "reason": "HTTP 405 — сайт отклоняет автоматический запрос"
+    },
+    {
+      "code": "IL-IBA-02",
+      "name": "Повышение квалификации 2023 (онлайн-семинары)",
+      "url": "https://www.israelbar.org.il/magazine/online_seminars_2023/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "SG-LSS-03",
+      "name": "Law Gazette: раздел для членов",
+      "url": "https://lawgazette.com.sg/category/members/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-01",
+      "name": "Центр инноваций ABA: ИИ",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-02",
+      "name": "Центр инноваций ABA: ИИ и юридическое образование",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/ai-in-legal-education/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-03",
+      "name": "Центр инноваций ABA: вебинары по ИИ (архив)",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/past-webinars/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-05",
+      "name": "ABA Learning Center (CLE): курсы по ИИ",
+      "url": "https://learningcenter.americanbar.org/courses?courses%5Bquery%5D=artificial+intelligence",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-06",
+      "name": "Legal Technology Resource Center (Law Practice Division)",
+      "url": "https://www.americanbar.org/groups/law_practice/resources/legal-technology-resource-center/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-TX-TBCLE-01",
+      "name": "Календарь мероприятий и вебкастов",
+      "url": "https://www.texasbarcle.com/new/EventsCalendar.asp",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-TX-TBCLE-02",
+      "name": "Список курсов",
+      "url": "https://www.texasbarcle.com/new/courselist.asp",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    }
+  ],
+  "source_proposals": [],
+  "notes": "WebFetch в этой среде недоступен (ENOTFOUND на fparf.ru, advocatenorde.nl, lawsociety.org.nz); страницы плана загружены запасным способом через curl (fetch_pages.py): 83 из 98 открылись. Статус ПРОВЕРЕНО означает, что страница первоисточника открыта curl в этом запуске. Событие МАФ-2026 основано на материалах ФПА РФ («Живой диалог с ФПА РФ», 16.11.2026) и АП Московской области (16.11.2026, https://apmo.ru/poslednie-novosti/?CODE=ii-moskovskiy-advokatskiy-forum-2026-advokatura-traditsii-i-tekhnologii); оба открыты в этом запуске. Номер декрета в названии миланской конференции (DLGS 160/2026) приведён так, как он указан на странице коллегии. Не включено как вне предмета: Advokatsamfundet (Дания), 16.11.2026 — создана рабочая группа по оценке и развитию курса подготовки адвокатов (Justitsministeriets Kursusudvalg), обучение по противодействию отмыванию денег расширено до целого учебного дня с курсов второго полугодия 2027 г.; ИИ в тексте не упомянут. Также вне предмета: NYSBA 16.11.2026 — Legal Tech Roundtable Part 1 (кибербезопасность); FLSC (Канада) 16.11.2026 — избрание президента; Law Council of Australia 16.11.2026 — конференция по практической подготовке (PLT), ИИ во фрагменте не упомянут. Поиск: 10 запросов WebSearch (standard) на русском, итальянском, английском, немецком, французском, испанском, шведском, финском, чешском, корейском; польский, нидерландский, норвежский, датский, японский, португальский и иврит в этом запуске не запрашивались; новых материалов, датированных 16–17.11.2026, выдача не дала. Отметка «printed on 17/11/2026» (Law Society) — служебная подпись сайта."
+}
