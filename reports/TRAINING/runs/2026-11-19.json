@@ -1,0 +1,134 @@
+{
+  "run_date": "2026-11-19",
+  "window_from": "18.11.2026",
+  "fetch_mode": "страницы",
+  "events": [
+    {
+      "event_id": "GB-LS-feature-managing-ai-risks-2026-11",
+      "date_event": "2026-11-18",
+      "group": "II",
+      "country": "Англия и Уэльс",
+      "org": "Law Society",
+      "type": "иное",
+      "summary": "18.11.2026 в разделе Law Society «AI and lawtech» опубликован материал «How can we manage AI risks in legal services?» (автор — партнёр Simmons & Simmons, руководитель направления AI governance). Автор указывает, что солиситоры остаются ответственными за работу независимо от использования ИИ, называет новую практическую рекомендацию (practice note) Law Society по ИИ отправной точкой для внутренних политик фирм и советует вместо разовых занятий проводить регулярное обновляемое обучение; это, по его словам, поддерживает обязанность компетентности и, для фирм в сфере действия Регламента ЕС об ИИ, обязанность обеспечивать грамотность в области ИИ. Отдельно рассматривается риск «теневого ИИ» — использования неодобренных инструментов.",
+      "level": "М5",
+      "impact": "Довод для модуля руководителей М5: обучение по ИИ как регулярный цикл, а не разовое мероприятие, и политика против «теневого ИИ»; материал авторский, не руководство органа.",
+      "verification": "ПРОВЕРЕНО",
+      "url": "https://www.lawsociety.org.uk/topics/ai-and-lawtech/how-can-we-manage-ai-risks-in-legal-services",
+      "change": "новое",
+      "importance": 1
+    }
+  ],
+  "unreachable": [
+    {
+      "code": "AU-LIV-01",
+      "name": "Хаб по ИИ (ресурсы и видео CPD on Demand)",
+      "url": "https://www.liv.asn.au/aihub",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "AU-LIV-03",
+      "name": "Видеокурс CPD: генеративный ИИ и цифровая грамотность",
+      "url": "https://www.liv.asn.au/itemdetail?iProductCode=CPDVID000180",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "BE-AVB-01",
+      "name": "Academy AVOCATS.BE — «Nos formations»",
+      "url": "https://academy.avocats.be/formations",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "ES-CGAE-02",
+      "name": "Программа цифровых компетенций Upro (включая ИИ)",
+      "url": "https://www.abogacia.es/formacion/programa-de-competencias-digitales/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "ES-CGAE-03",
+      "name": "Курс «Адвокатура, ИИ, нейроправа и метавселенная»",
+      "url": "https://www.abogacia.es/formacion/curso-de-especializacion-abogacia-inteligencia-artificial-neuroderechos-y-metaverso/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-PAR-01",
+      "name": "Академия ИИ Парижской коллегии адвокатов",
+      "url": "https://www.avocatparis.org/le-barreau-de-paris-lance-son-academie-ia-pour-former-les-avocats-une-intelligence-artificielle",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-SKL-01",
+      "name": "Платформа Skilia (курс ИИ для адвокатов)",
+      "url": "https://formation.lefebvre-dalloz.fr/skilia",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "GB-LS-03",
+      "name": "Мероприятия секции Risk and Compliance",
+      "url": "https://communities.lawsociety.org.uk/risk-and-compliance/events",
+      "reason": "HTTP 405 — сайт отклоняет автоматический запрос"
+    },
+    {
+      "code": "IL-IBA-02",
+      "name": "Повышение квалификации 2023 (онлайн-семинары)",
+      "url": "https://www.israelbar.org.il/magazine/online_seminars_2023/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "PT-OA-04",
+      "name": "Бюллетень OA: новые курсы сентября 2026",
+      "url": "https://boletim.oa.pt/2026/08/24/setembro-arranca-com-novas-formacoes-a-nao-perder/",
+      "reason": "HTTP 502 — ошибка шлюза"
+    },
+    {
+      "code": "SG-LSS-03",
+      "name": "Law Gazette: раздел для членов",
+      "url": "https://lawgazette.com.sg/category/members/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-01",
+      "name": "Центр инноваций ABA: ИИ",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-02",
+      "name": "Центр инноваций ABA: ИИ и юридическое образование",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/ai-in-legal-education/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-03",
+      "name": "Центр инноваций ABA: вебинары по ИИ (архив)",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/past-webinars/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-05",
+      "name": "ABA Learning Center (CLE): курсы по ИИ",
+      "url": "https://learningcenter.americanbar.org/courses?courses%5Bquery%5D=artificial+intelligence",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-06",
+      "name": "Legal Technology Resource Center (Law Practice Division)",
+      "url": "https://www.americanbar.org/groups/law_practice/resources/legal-technology-resource-center/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-TX-TBCLE-01",
+      "name": "Календарь мероприятий и вебкастов",
+      "url": "https://www.texasbarcle.com/new/EventsCalendar.asp",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-TX-TBCLE-02",
+      "name": "Список курсов",
+      "url": "https://www.texasbarcle.com/new/courselist.asp",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    }
+  ],
+  "source_proposals": [],
+  "notes": "WebFetch в этой среде недоступен (ENOTFOUND на fparf.ru, advocatenorde.nl, ordineavvocatimilano.it); страницы плана загружены запасным способом через curl (fetch_pages.py): 80 из 98 открылись. Статус ПРОВЕРЕНО означает, что страница первоисточника открыта curl в этом запуске. Повтор, не включённый отдельно: ФПА РФ, 18.11.2026 — «Ценный помощник или угроза профессии?» (отчёт о стратегической сессии об ИИ на II Московском адвокатском форуме; сессия уже учтена как RU-MAF-ii-moskovskiy-forum-sessiya-ii-2026-11 и RU-APMO-maf-sessiya-ii-itogi-2026-11). Дополнительно в отчёте ФПА: модератор сессии — советник ФПА РФ Ю. Пилипенко; по словам адвоката А. Забейды, АП г. Москвы рекомендует получать согласие доверителя на использование ИИ при оказании юридической помощи (саму рекомендацию в этом запуске не открывал). Вне предмета: FLSC (Канада), 18.11.2026 — режим административных санкций; LSBC, 18.11.2026 — регулирование иммиграционных юристов; Suomen Asianajajat, 18.11.2026 — исключение из коллегии; новости АП МО, OAM, ЧАК, AWAK за 18–19.11.2026 ИИ не касаются. Поиск: 8 запросов WebSearch (standard) на русском, французском, итальянском, испанском, датском, чешском, английском, иврите; новых материалов, датированных 18–19.11.2026, выдача не дала. Отметка «printed on 19/11/2026» (Law Society) — служебная подпись сайта."
+}
