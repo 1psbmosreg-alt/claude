@@ -1,0 +1,47 @@
+{
+  "agent_code": "EU",
+  "period": {
+    "start": "2026-11-17",
+    "end": "2026-11-24"
+  },
+  "generated_at": "2026-11-24",
+  "coverage_note": "Проверено: выполнено 51 из 51 запроса; запросов 52 (наднациональный уровень — 13, Германия/Австрия/Швейцария — 9, Франция/Бельгия — 8, остальные — 22), поисков по доменам 17 (12 групп шага 1, повтор запроса 11 по ccbe.eu, запрос 12, damiencharlotin.com, rechtspraak.nl, echr.coe.int/coe.int), уточняющих запросов 2 (решение ЕСПЧ по правилу 44D, ECLI:NL:RBAMS:2026:8258), вызовов Legal Data Hunter 2 (search по EU/CoE и по 13 национальным юрисдикциям за 17.11–24.11.2026: релевантных решений нет). Недоступно: WebFetch не загружается; открыты сообщение ЕСПЧ, beck-aktuell, rp.pl, prawo.pl и текст решения Rechtbank Amsterdam (data.rechtspraak.nl), остальное — по фрагментам выдачи. Исключено: Rechtbank Amsterdam ECLI:NL:RBAMS:2026:8258 (12.08.2026), изменение кодекса этики NRA об ИИ (12.06.2026), циркуляр CGAE 3/2026 (10.04.2026), хартия Cour de cassation (22.10.2026), руководство BRAK (10/2026), запуск Académie IA Парижской коллегии (04.11.2026) — до периода; пересмотренные рекомендации NOvA — уже в EU-20261117-001; проект руководства Еврокомиссии по высокорисковым системам и Заключение CCJE № 29 — не приняты; итоговый доклад исследовательского проекта Нижней Саксонии об ИИ в судейских решениях — академическое исследование; формуляр CNF об ИИ для клиентов — дата не установлена. Чужая зона: санкции судов США, Канады, Колумбии; руководство адвокатуры Латвии.",
+  "items": [
+    {
+      "item_id": "EU-20261124-001",
+      "jurisdiction": "COE",
+      "jurisdiction_name_ru": "Совет Европы",
+      "issuer_original": "European Court of Human Rights",
+      "issuer_ru": "Европейский суд по правам человека",
+      "issuer_type": "суд",
+      "category": "санкции_за_ошибки_ИИ",
+      "doc_type": "судебное_решение",
+      "status": "решение_вынесено",
+      "date_published": "2026-11-13",
+      "date_effective": null,
+      "title_original": "Romanian lawyer barred for two years from representing applicants before the Court over unverified AI-generated citations",
+      "title_ru": "Румынский адвокат отстранён на два года от представительства заявителей в Суде за непроверенные ссылки, созданные ИИ",
+      "identifier": null,
+      "summary_ru": "13.11.2026 Председатель ЕСПЧ по мотивированному предложению палаты отстранил румынского адвоката на два года от представительства и иного содействия заявителям в Суде; решение стало известно из сообщения ЕСПЧ от 18.11.2026. Палата установила, что в замечаниях адвоката были ссылки на несуществующие («галлюцинированные») дела, на вымышленные пункты подлинных постановлений и на практику, не относящуюся к доводам или противоречащую им; адвокат признала, что готовила замечания с помощью ИИ. Палата сочла это системой многочисленных повторяющихся существенных ошибок и нарушением профессиональных и этических обязанностей перед Судом; по данным beck-aktuell, мера применена по правилу 44D Регламента Суда, второй представитель заявителя не затронут.",
+      "key_rule_ru": "Использование ИИ при подготовке документов в ЕСПЧ допустимо, но непроверенные выдуманные ИИ ссылки на практику Суда могут повлечь отстранение представителя от участия в делах.",
+      "quote_original": "The Chamber found that the lawyer’s submissions contained a pattern of numerous, repeated, substantive errors rather than isolated citation mistakes",
+      "ru_relevance": "Для российских адвокатов, ведущих в ЕСПЧ дела о фактах до 16.09.2022, и как аргумент о стандарте осмотрительности: проверка каждой ссылки на практику, в том числе на базе HUDOC, — обязанность представителя; модель для внутренних правил бюро.",
+      "significance": 4,
+      "significance_reason": "Решение ЕСПЧ с новым видом меры за ошибки ИИ — отстранение представителя от участия в делах на два года.",
+      "source_url": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
+      "source_language": "en",
+      "secondary_urls": [
+        "https://www.beck-aktuell.de/rechtsbranche/anwaltschaft/egmr-sperrt-anwaeltin-KI-Schriftsatz-2026-11-19",
+        "https://www.irishlegal.com/articles/ecthr-bars-romanian-lawyer-for-two-years-over-ai-generated-citations",
+        "https://www.lawsociety.ie/gazette/top-stories/2026/november/romanian-lawyer-gets-two-year-ecthr-ban/"
+      ],
+      "verification": "первоисточник",
+      "follow_up": "Публикация мотивированного решения в HUDOC и возможное восстановление права представительства по правилу 44D § 3.",
+      "tags": [
+        "выдуманные_ссылки",
+        "отстранение_от_представительства",
+        "ЕСПЧ"
+      ]
+    }
+  ]
+}
