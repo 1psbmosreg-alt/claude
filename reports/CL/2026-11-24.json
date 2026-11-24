@@ -1,0 +1,70 @@
+{
+  "agent_code": "CL",
+  "period": {"start": "2026-11-17", "end": "2026-11-24"},
+  "generated_at": "2026-11-24",
+  "coverage_note": "Проверено: выполнено 42 из 42 запросов (Великобритания и Ирландия — 27, Австралия и Новая Зеландия — 11, Залив — 4), поисков по доменам 6 (все группы шага 1), вызовов Legal Data Hunter 4 (search по UK, IE; по AU, NZ; по SDT, BTAS, судам Шотландии и Северной Ирландии — решений об ИИ за период нет; поиск решения Kavanagh — не проиндексировано). Сайты judiciary.uk и AI Hallucination Cases Database открыты, выгрузка базы проверена по странам зоны. Недоступно: сайт Федерального суда Австралии (защита от автоматического доступа) — текст решения Kavanagh прочитан по копии решения в базе. Исключено: Cork & Anor v Smith (решение 22.05.2026, Pinsent Masons) — вне периода; R (LYC) v DPP [2026] EWHC 2778 (Admin), 29.10.2026 — ссылка на несуществующее решение в акте CPS, связь с ИИ в тексте не установлена, санкций нет; речь судьи Joanna Smith об ИИ и экспертах (06.11.2026) — речь; обзор Eversheds о HC 142 (19.11.2026) — комментарий к известному документу; доклад AIJA об ИИ в принятии решений — известен с октября; консультация Law Commission о продуктовой ответственности за ИИ (09.10.2026) — вне предмета и периода. Отследить: Practice Direction по докладу CJC; пересмотр SC Gen 23 (NSW); обжалование решения SDT по делу Kumar; консультация SRA о стандарте компетентности (до 03.12.2026); проверка SRA по Pinsent Masons. Чужая зона: нет.",
+  "items": [
+    {
+      "item_id": "CL-20261124-001",
+      "jurisdiction": "GB",
+      "jurisdiction_name_ru": "Великобритания — Англия и Уэльс",
+      "issuer_original": "High Court of Justice, King's Bench Division (Mr Justice Sweeting)",
+      "issuer_ru": "Высокий суд Англии и Уэльса, Отделение королевской скамьи (судья Sweeting)",
+      "issuer_type": "суд",
+      "category": "судебная_практика",
+      "doc_type": "судебное_решение",
+      "status": "решение_вынесено",
+      "date_published": "2026-11-19",
+      "date_effective": null,
+      "title_original": "Foster & Hitchens v Wargrave on Thames Housing Association Ltd — Consequential Judgment",
+      "title_ru": "Фостер и Хитченс против жилищной ассоциации Wargrave on Thames — решение о последствиях (о судебных расходах)",
+      "identifier": "[2026] EWHC 3000 (KB)",
+      "summary_ru": "После успешной апелляции двух пенсионеров, выступавших без представителя по спору о выселении, Высокий суд впервые рассмотрел, возмещается ли стоимость подписки на ИИ-инструмент для юридических исследований. Суд отказал квалифицировать подписку как оплату «юридических услуг» по CPR 46.5, но признал её возмещаемым расходом (disbursement): подписка на отраслевой ИИ-сервис куплена специально для дела на заёмные средства и реально помогла подготовить успешные доводы; взыскано £1 488. Суд подчеркнул, что специального правила для ИИ не требуется, а безответственное использование ИИ для многословных и бесполезных материалов ведёт к отказу в возмещении.",
+      "key_rule_ru": "Расходы на ИИ-инструмент, приобретённый для конкретного дела, могут быть взысканы как судебные расходы, если они разумны и соразмерны; ИИ сам по себе не делает расход ни заведомо возмещаемым, ни заведомо невозмещаемым.",
+      "quote_original": "The technology itself neither renders the expenditure automatically recoverable nor automatically irrecoverable.",
+      "ru_relevance": "Аргумент при обосновании разумности расходов на специализированные ИИ-сервисы в составе судебных издержек (ст. 94, 100 ГПК РФ, ст. 106, 110 АПК РФ): расход связан с конкретным делом и реально повлиял на подготовку позиции; иностранное решение для российских судов не обязательно.",
+      "significance": 3,
+      "significance_reason": "Решение суда первой инстанции с новым подходом: впервые определены условия возмещения расходов на ИИ-инструмент в составе судебных расходов.",
+      "source_url": "https://www.judiciary.uk/wp-content/uploads/2026/11/FINAL-CONSEQUENTIAL-JUDGMENT-Foster-Hitchens-v-Wargrave.pdf",
+      "source_language": "en",
+      "secondary_urls": [
+        "https://www.judiciary.uk/wp-content/uploads/2026/11/Hitchens-Summary-Press.pdf",
+        "https://www.legalfutures.co.uk/latest-news/court-allows-successful-lips-to-recover-cost-of-ai-legal-research-tool",
+        "https://www.solicitorsjournal.com/sjarticle/foster-v-wargrave-on-thames-housing-association-ai-research-subscription-recoverable-as-a-litigant-in-person-disbursement"
+      ],
+      "verification": "первоисточник",
+      "follow_up": "Возможное обжалование; применение подхода в других решениях о расходах сторон без представителя.",
+      "tags": ["GB-ENG", "судебные_расходы", "сторона_без_представителя", "ИИ_инструменты"]
+    },
+    {
+      "item_id": "CL-20261124-002",
+      "jurisdiction": "AU",
+      "jurisdiction_name_ru": "Австралия (суды и трибуналы)",
+      "issuer_original": "Australian courts and tribunals",
+      "issuer_ru": "Суды и трибуналы Австралии",
+      "issuer_type": "суд",
+      "category": "санкции_за_ошибки_ИИ",
+      "doc_type": "иное",
+      "status": "решение_вынесено",
+      "date_published": "2026-11-20",
+      "date_effective": null,
+      "title_original": "Sanctions for AI-fabricated citations: decisions of 2026-11-20 – 2026-11-20",
+      "title_ru": "Санкции за выдуманные ИИ ссылки: сводка решений за 20.11.2026",
+      "identifier": null,
+      "summary_ru": "Новых подтверждённых решений с прошлого отчёта: 1 (против стороны без представителя — 1). Kavanagh v Atlassian Pty Ltd (Confidentiality and Non-Publication Application) [2026] FCA 1774, Федеральный суд Австралии (судья Perry), 20.11.2026: в возражениях истца, выступавшего без представителя, часть ссылок не существовала или не подтверждала доводы; истец признал использование генеративного ИИ, и суд приказал, чтобы ни одна сторона без разрешения суда не использовала генеративный ИИ для создания текста подаваемых документов, включая письменные доводы и аффидевиты. Решение стало известно в периоде по базе AI Hallucination Cases Database; текст прочитан по копии решения в базе.",
+      "key_rule_ru": "Суд может в рамках конкретного дела запретить всем сторонам использовать генеративный ИИ для подготовки текста процессуальных документов без его разрешения, если ИИ уже привёл к ошибочным ссылкам.",
+      "quote_original": null,
+      "ru_relevance": "Пример процессуальной меры суда против использования ИИ после выявленных выдуманных ссылок; аргумент о необходимости проверять каждую ссылку перед подачей документа; прямой применимости нет.",
+      "significance": 2,
+      "significance_reason": "Сводная запись о рядовых решениях первой инстанции о мерах за выдуманные ИИ ссылки.",
+      "source_url": "https://www.damiencharlotin.com/documents/3460/Kavanagh_v._Atlassian_Australia_20-11-2026.pdf",
+      "source_language": "en",
+      "secondary_urls": [
+        "https://www.damiencharlotin.com/hallucinations/2995-kavanagh-v-atlassian-pty-ltd-confidentiality-and-non-publication-application/"
+      ],
+      "verification": "первоисточник",
+      "follow_up": null,
+      "tags": ["сводная_запись", "выдуманные_ссылки", "сторона_без_представителя"]
+    }
+  ]
+}
