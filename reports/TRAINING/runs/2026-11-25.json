@@ -1,0 +1,134 @@
+{
+  "run_date": "2026-11-25",
+  "window_from": "24.11.2026",
+  "fetch_mode": "страницы",
+  "events": [
+    {
+      "event_id": "SE-ADV-iba-legal-agenda-2026-ai-2026-11",
+      "date_event": "2026-11-23",
+      "group": "III",
+      "country": "Швеция",
+      "org": "IBA (сообщение Advokatsamfundet)",
+      "type": "исследование_отчёт",
+      "summary": "23.11.2026 International Bar Association опубликовала IBA Legal Agenda 2026: искусственный интеллект назван самым острым вопросом для юристов мира и поставлен первым из семи приоритетов (в издании 2025 г. первое место занимало верховенство права, ИИ — второе). По тексту IBA: ИИ меняет пути подготовки и профессионального развития молодых юристов; традиционные маршруты входа в профессию, возможно, придётся адаптировать, поскольку технологии всё чаще выполняют задачи, которые исторически выполняли младшие юристы. 24.11.2026 о документе сообщила Advokatsamfundet (Швеция), выделив необходимость новых форм подготовки молодых юристов.",
+      "level": "М0",
+      "impact": "Международный ориентир для модуля стажёров — подготовку младших юристов нужно строить с учётом того, что ИИ забирает их традиционные учебные задачи; сам документ курсов и норм обучения не вводит.",
+      "verification": "ПРОВЕРЕНО",
+      "url": "https://www.ibanet.org/IBA-Legal-Agenda-2026-artificial-intelligence-leads-seven-priorities-confronting-lawyers-amid-technological-disruption-and-global-rule-of-law-pressures",
+      "change": "новое",
+      "importance": 2
+    }
+  ],
+  "unreachable": [
+    {
+      "code": "AU-LIV-01",
+      "name": "Хаб по ИИ (ресурсы и видео CPD on Demand)",
+      "url": "https://www.liv.asn.au/aihub",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "AU-LIV-03",
+      "name": "Видеокурс CPD: генеративный ИИ и цифровая грамотность",
+      "url": "https://www.liv.asn.au/itemdetail?iProductCode=CPDVID000180",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "BE-AVB-01",
+      "name": "Academy AVOCATS.BE — «Nos formations»",
+      "url": "https://academy.avocats.be/formations",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "ES-CGAE-01",
+      "name": "Раздел «Formación» Abogacía Española",
+      "url": "https://www.abogacia.es/formacion/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "ES-CGAE-03",
+      "name": "Курс «Адвокатура, ИИ, нейроправа и метавселенная»",
+      "url": "https://www.abogacia.es/formacion/curso-de-especializacion-abogacia-inteligencia-artificial-neuroderechos-y-metaverso/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-PAR-01",
+      "name": "Академия ИИ Парижской коллегии адвокатов",
+      "url": "https://www.avocatparis.org/le-barreau-de-paris-lance-son-academie-ia-pour-former-les-avocats-une-intelligence-artificielle",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-SKL-01",
+      "name": "Платформа Skilia (курс ИИ для адвокатов)",
+      "url": "https://formation.lefebvre-dalloz.fr/skilia",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "GB-LS-03",
+      "name": "Мероприятия секции Risk and Compliance",
+      "url": "https://communities.lawsociety.org.uk/risk-and-compliance/events",
+      "reason": "HTTP 405 — сайт отклоняет автоматический запрос"
+    },
+    {
+      "code": "IL-IBA-02",
+      "name": "Повышение квалификации 2023 (онлайн-семинары)",
+      "url": "https://www.israelbar.org.il/magazine/online_seminars_2023/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "PL-NRA-01",
+      "name": "Doskonalenie zawodowe — Aktualności",
+      "url": "https://www.adwokatura.pl/doskonalenie-zawodowe/aktualnosci/",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "SG-LSS-03",
+      "name": "Law Gazette: раздел для членов",
+      "url": "https://lawgazette.com.sg/category/members/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-01",
+      "name": "Центр инноваций ABA: ИИ",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-02",
+      "name": "Центр инноваций ABA: ИИ и юридическое образование",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/ai-in-legal-education/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-03",
+      "name": "Центр инноваций ABA: вебинары по ИИ (архив)",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/past-webinars/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-05",
+      "name": "ABA Learning Center (CLE): курсы по ИИ",
+      "url": "https://learningcenter.americanbar.org/courses?courses%5Bquery%5D=artificial+intelligence",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-06",
+      "name": "Legal Technology Resource Center (Law Practice Division)",
+      "url": "https://www.americanbar.org/groups/law_practice/resources/legal-technology-resource-center/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-TX-TBCLE-01",
+      "name": "Календарь мероприятий и вебкастов",
+      "url": "https://www.texasbarcle.com/new/EventsCalendar.asp",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-TX-TBCLE-02",
+      "name": "Список курсов",
+      "url": "https://www.texasbarcle.com/new/courselist.asp",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    }
+  ],
+  "source_proposals": [],
+  "notes": "Инструмент WebFetch в этой сессии недоступен; страницы плана загружены запасным способом через curl (fetch_pages.py): 80 из 98 открылись. Статус ПРОВЕРЕНО означает, что страница первоисточника открыта curl в этом запуске. Событие IBA Legal Agenda 2026: материал реестра — новость Advokatsamfundet (SE-ADV-02) от 24.11.2026, в окне; сама публикация IBA датирована 23.11.2026 (на день раньше окна; в отчёт 24.11.2026 не попала); открыты и новость Advokatsamfundet, и страница IBA. Вне предмета (страницы реестра, 24–25.11.2026): ФПА РФ — вебинар 25.11.2026 (ответственность за нарушение договорных обязательств, подготовка документов для доверителя, коммерческая тайна; ИИ в темах нет); ФПА РФ, 24.11.2026 — презентация четвёртого издания учебника «Адвокатура и адвокатская деятельность» (МГИМО; ИИ в тексте сообщения не упомянут); АП МО, 24.11.2026 — курс «Медиативный подход в работе адвоката» с 05.12.2026; АПРО — «Правовой квиз»; BRAK, 24.11.2026 — сообщение о предупреждении BGH адвокатам об использовании текстов ИИ в обосновании ревизии (судебная практика); Advokatsamfundet, 24.11.2026 — обновление руководства CCBE для адвокатов в ЕСПЧ (без ИИ); Advokatsamfundet (Дания), 24.11.2026 — сохранение двухлетней магистратуры по праву; курсы AWAK и ČAK 24–26.11.2026 — без ИИ; OAM — объявления без ИИ. Вне окна: «Адвокатская газета», 19.11.2026 — стратегическая сессия об этике ИИ на II Московском адвокатском форуме 16.11.2026 (дискуссия, не обучение); OVB, 20.11.2026 — сообщение о дисциплинарной мере в отношении адвоката за ошибочные ссылки, созданные ИИ (вне предмета); Florida Bar News, 18.09.2026 — бесплатная AI Clinic Miami Dade College с зачётом CLE. Страница Barreau du Québec (CA-BQ-02) — уведомление от 01.04.2026, учтено ранее; в списке связанных материалов от 24.11.2026 — только режим санкций в иммиграционном праве. Отметки «printed on 25/11/2026» (Law Society) и «Last Updated 25 Nov 2026» (MinLaw) — служебные подписи сайтов. Не открылись страницы вне реестра: lawgazette.co.uk (HTTP 405) и globallegalpost.com (HTTP 403) — публикации об IBA Legal Agenda; первоисточник IBA открыт. Поиск: 10 запросов WebSearch (standard) — английский (3, в том числе по домену ibanet.org), русский, немецкий, французский, итальянский, испанский, польский, японский; других новых материалов об обучении ИИ, датированных 24–25.11.2026, выдача не дала."
+}
