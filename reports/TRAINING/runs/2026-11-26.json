@@ -1,0 +1,149 @@
+{
+  "run_date": "2026-11-26",
+  "window_from": "25.11.2026",
+  "fetch_mode": "страницы",
+  "events": [
+    {
+      "event_id": "DE-BRAK-dai-forum-ki-2026-11",
+      "date_event": "2026-11-25",
+      "group": "I",
+      "country": "Германия",
+      "org": "BRAK / DAI",
+      "type": "курс_ИИ",
+      "summary": "25.11.2026 BRAK в рассылке «Nachrichten aus Berlin» (Ausgabe 24/2026) анонсировала бесплатный DAI Forum 2026 «KI – Was jetzt funktioniert – Was jetzt gilt» Deutsches Anwaltsinstitut. Однодневная программа для адвокатов: путь от отдельного промпта к структурированному рабочему процессу; типовые задачи практики (приём поручения и подготовка фактов, исследование, анализ договоров, подготовка процессуальных документов, коммуникация с доверителем); возможности и границы общих языковых моделей и специализированных Legal-AI; контроль качества (проверка источников, проверка правдоподобия, проверка человеком); текущее состояние Регламента ЕС об ИИ; профессионально-правовые рамки; панельная дискуссия. Даты: 28.11.2026 онлайн (очное участие в Берлине уже распродано) и 12.12.2026 в Бохуме или онлайн, 10:00–16:45.",
+      "level": "М2",
+      "impact": "Готовая структура однодневного практикума «от промпта к рабочему процессу» с блоками контроля качества, Регламента ЕС об ИИ и профессиональной этики — образец программы для модуля М2.",
+      "verification": "ПРОВЕРЕНО",
+      "url": "https://www.brak.de/newsroom/newsletter/nachrichten-aus-berlin/2026/ausgabe-24-2026-v-25112026/dai-forum-2026-ki-was-jetzt-funktioniert-was-jetzt-gilt/",
+      "change": "новое",
+      "importance": 2
+    },
+    {
+      "event_id": "FI-ASA-tekoaly-claude-tyopari-2026-12",
+      "date_event": "2026-12-03",
+      "group": "III",
+      "country": "Финляндия",
+      "org": "Suomen Asianajajat",
+      "type": "курс_ИИ",
+      "summary": "Suomen Asianajajat (Коллегия адвокатов Финляндии) открыла запись на практикум «Tekoäly tehokäyttöön – Claude asianajajan työparina» 03.12.2026, 9:30–12:45 (Хельсинки, также дистанционно) — первая часть серии об ИИ-приложениях. Содержание по странице: применение Claude для черновиков писем доверителю, меморандумов и заключений, структурирования больших массивов документов и хронологий, сравнения договорных условий и выявления рисков, подготовки к встречам, переговорам и слушаниям; построение промптов; проверка ответов, критика источников, адвокатская тайна и защита персональных данных; упражнения на собственном компьютере. Доступ — только членам коллегии, сотрудникам адвокатских бюро и Oikeuspalveluvirasto; запись до 01.12 (очно) и 02.12.2026 (дистанционно); участники получают запись занятия на две недели.",
+      "level": "М2",
+      "impact": "Пример практикума национального органа на конкретном инструменте, с упражнениями и обязательным блоком ответственного использования (проверка, тайна, персональные данные) — модель для модуля М2.",
+      "verification": "ПРОВЕРЕНО",
+      "url": "https://tapahtumat.asianajajat.fi/tekoaly-tehokayttoon-claude",
+      "change": "новое",
+      "importance": 2
+    }
+  ],
+  "unreachable": [
+    {
+      "code": "AU-LIV-01",
+      "name": "Хаб по ИИ (ресурсы и видео CPD on Demand)",
+      "url": "https://www.liv.asn.au/aihub",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "AU-LIV-03",
+      "name": "Видеокурс CPD: генеративный ИИ и цифровая грамотность",
+      "url": "https://www.liv.asn.au/itemdetail?iProductCode=CPDVID000180",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "BE-AVB-01",
+      "name": "Academy AVOCATS.BE — «Nos formations»",
+      "url": "https://academy.avocats.be/formations",
+      "reason": "нет ответа (таймаут или обрыв соединения)"
+    },
+    {
+      "code": "ES-CGAE-01",
+      "name": "Раздел «Formación» Abogacía Española",
+      "url": "https://www.abogacia.es/formacion/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "ES-CGAE-02",
+      "name": "Программа цифровых компетенций Upro (включая ИИ)",
+      "url": "https://www.abogacia.es/formacion/programa-de-competencias-digitales/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "ES-CGAE-03",
+      "name": "Курс «Адвокатура, ИИ, нейроправа и метавселенная»",
+      "url": "https://www.abogacia.es/formacion/curso-de-especializacion-abogacia-inteligencia-artificial-neuroderechos-y-metaverso/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-PAR-01",
+      "name": "Академия ИИ Парижской коллегии адвокатов",
+      "url": "https://www.avocatparis.org/le-barreau-de-paris-lance-son-academie-ia-pour-former-les-avocats-une-intelligence-artificielle",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "FR-SKL-01",
+      "name": "Платформа Skilia (курс ИИ для адвокатов)",
+      "url": "https://formation.lefebvre-dalloz.fr/skilia",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "GB-LS-03",
+      "name": "Мероприятия секции Risk and Compliance",
+      "url": "https://communities.lawsociety.org.uk/risk-and-compliance/events",
+      "reason": "HTTP 405 — сайт отклоняет автоматический запрос"
+    },
+    {
+      "code": "IL-IBA-02",
+      "name": "Повышение квалификации 2023 (онлайн-семинары)",
+      "url": "https://www.israelbar.org.il/magazine/online_seminars_2023/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "SG-LSS-03",
+      "name": "Law Gazette: раздел для членов",
+      "url": "https://lawgazette.com.sg/category/members/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-01",
+      "name": "Центр инноваций ABA: ИИ",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-02",
+      "name": "Центр инноваций ABA: ИИ и юридическое образование",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/ai-in-legal-education/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-03",
+      "name": "Центр инноваций ABA: вебинары по ИИ (архив)",
+      "url": "https://www.americanbar.org/groups/centers_commissions/center-for-innovation/artificial-intelligence/past-webinars/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-05",
+      "name": "ABA Learning Center (CLE): курсы по ИИ",
+      "url": "https://learningcenter.americanbar.org/courses?courses%5Bquery%5D=artificial+intelligence",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-ABA-06",
+      "name": "Legal Technology Resource Center (Law Practice Division)",
+      "url": "https://www.americanbar.org/groups/law_practice/resources/legal-technology-resource-center/",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-TX-TBCLE-01",
+      "name": "Календарь мероприятий и вебкастов",
+      "url": "https://www.texasbarcle.com/new/EventsCalendar.asp",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    },
+    {
+      "code": "US-TX-TBCLE-02",
+      "name": "Список курсов",
+      "url": "https://www.texasbarcle.com/new/courselist.asp",
+      "reason": "HTTP 403 — доступ запрещён (защита от автоматических запросов)"
+    }
+  ],
+  "source_proposals": [],
+  "notes": "Инструмент WebFetch в этой сессии недоступен; страницы плана загружены запасным способом через curl (fetch_pages.py): 80 из 98 открылись. Статус ПРОВЕРЕНО означает, что страница первоисточника открыта curl в этом запуске. Событие DAI Forum найдено в выпуске BRAK «Nachrichten aus Berlin» 24/2026 от 25.11.2026 (страница DE-BRAK-01 реестра). Практикум Suomen Asianajajat: дата публикации анонса на странице не указана; в загрузке страницы обучения FI-ASA-01 от 24.11.2026 его не было, впервые он виден в загрузке 25.11.2026 (в отчёт 25.11.2026 не попал) — включён как появившийся в окне. Вне окна, не включено: ČAK — онлайн-семинар «Umělá inteligence v advokátní praxi, od základů až po takřka plnohodnotného právního asistenta» 01.12.2026, 09:00–13:00 (Брно, онлайн; страница cak.cz/akce/1302 открыта) — в каталоге ČAK он был уже в загрузке 23.11.2026, дата публикации не указана, в накопительной таблице события нет (пропущен прежними запусками). Вне предмета: ФПА РФ, 25.11.2026 — анонс III форума НИУ ВШЭ «Юридический менеджмент и консалтинг 2026: динамика развития, кризис идей и цифровые вызовы» 01.12.2026 (среди тем — применение ИИ; форум для руководителей юрслужб и консультантов, не программа обучения адвокатов); ФПА РФ, 25.11.2026 — проведён вебинар по повышению профессионального уровня (темы без ИИ; повторы 27–29.11.2026); ФПА РФ, «IT и адвокатура», 25.11.2026 — сервис «Живая очередь» в СИЗО Москвы; BRAK, 25.11.2026 — итоги конференции министров юстиции 19.11.2026 (ИИ среди тем, не обучение); АП МО, АПРО, OAM, KIRP, ČAK, Advokatsamfundet (Швеция, Дания), Law Society of BC, Law Council of Australia — материалы 25–26.11.2026 без связи с обучением ИИ. Отметки «printed on 26/11/2026» (Law Society) и «Last Updated 25 Nov 2026» (MinLaw) — служебные подписи сайтов. Поиск: 8 запросов WebSearch (standard) на русском, немецком, английском, французском, нидерландском, португальском, шведском, корейском; новых материалов об обучении ИИ, датированных 25–26.11.2026, выдача не дала."
+}
